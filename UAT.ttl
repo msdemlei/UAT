@@ -1474,7 +1474,7 @@
     a skos:Concept ;
     skos:altLabel "O-clusters"@en ;
     skos:broader <http://astrothesaurus.org/uat/1160> ;
-    skos:note "AI?X definition round 1: Star clusters dominated by O-type stars, typically young and massive, found in active star-forming regions. Citation: Humphreys, R. M., "OB Star Clusters in Starburst Regions," Publications of the Astronomical Society of the Pacific, 1978.";
+    skos:definition "Star clusters dominated by O-type stars, typically young and massive, found in active star-forming regions.";
     skos:prefLabel "O clusters"@en .
 
 <http://astrothesaurus.org/uat/1135>
@@ -1483,7 +1483,7 @@
     a skos:Concept ;
     skos:altLabel "O dwarfs"@en, "O-type dwarf stars"@en, "O-type dwarfs"@en, "O-type main sequence stars"@en ;
     skos:broader <http://astrothesaurus.org/uat/1137>, <http://astrothesaurus.org/uat/2053> ;
-    skos:note "AI?X definition round 1: Main-sequence stars of spectral type O, among the hottest and most luminous stars, with strong ionizing radiation. Citation: Conti, P. S., "O-Type Stars: Characteristics and Classification," Annual Review of Astronomy and Astrophysics, 1973.";
+    skos:definition "Main-sequence stars of (MK) spectral type O.";
     skos:prefLabel "O dwarf stars"@en .
 
 <http://astrothesaurus.org/uat/1136>
@@ -1492,7 +1492,7 @@
     a skos:Concept ;
     skos:altLabel "O giants"@en, "O-type giant stars"@en, "O-type giants"@en ;
     skos:broader <http://astrothesaurus.org/uat/1137>, <http://astrothesaurus.org/uat/655> ;
-    skos:note "AI?X definition round 1: Evolved O-type stars that have left the main sequence, characterized by high luminosity and large radii. Citation: Kaler, J. B., "Stars and Their Spectra," Cambridge University Press, 1997.";
+    skos:definition "Evolved O-type stars that have left the main sequence upwards.";
     skos:prefLabel "O giant stars"@en .
 
 <http://astrothesaurus.org/uat/1137>
@@ -1512,7 +1512,7 @@
     a skos:Concept ;
     skos:altLabel "O subdwarfs"@en, "O-type subdwarf stars"@en, "O-type subdwarfs"@en ;
     skos:broader <http://astrothesaurus.org/uat/1137>, <http://astrothesaurus.org/uat/2054> ;
-    skos:note "AI?X definition round 1: Metal-poor O-type stars with lower luminosities than typical O-type stars, found in the Galactic halo. Citation: Heber, U., "Hot Subdwarf Stars," Annual Review of Astronomy and Astrophysics, 2009.";
+    skos:definition "Metal-poor O-type stars with lower luminosities than typical O-type stars, found in the Galactic halo.";
     skos:prefLabel "O subdwarf stars"@en .
 
 <http://astrothesaurus.org/uat/1139>
@@ -1521,7 +1521,7 @@
     a skos:Concept ;
     skos:altLabel "O supergiants"@en, "O-type supergiant stars"@en, "O-type supergiants"@en ;
     skos:broader <http://astrothesaurus.org/uat/1137>, <http://astrothesaurus.org/uat/431> ;
-    skos:note "AI?X definition round 1: Massive and highly luminous O-type stars, often with strong stellar winds and high mass-loss rates. Citation: Kudritzki, R. P., & Puls, J., "Winds from Hot Stars," Annual Review of Astronomy and Astrophysics, 2000.";
+    skos:definition "Massive and highly luminous O-type stars above the main sequence, often with strong stellar winds and high mass-loss rates.";
     skos:prefLabel "O supergiant stars"@en .
 
 <http://astrothesaurus.org/uat/114>
@@ -1579,7 +1579,7 @@
     a skos:Concept ;
     skos:altLabel "OB supergiants"@en, "OB-type supergiant stars"@en, "OB-type supergiants"@en ;
     skos:broader <http://astrothesaurus.org/uat/1141>, <http://astrothesaurus.org/uat/431> ;
-    skos:note "AI?X definition round 1: Very massive stars of spectral types O and B with high luminosities and significant mass loss. Citation: Massey, P., "Massive Stars in OB Associations," Annual Review of Astronomy and Astrophysics, 2003.";
+    skos:definition "Very massive stars of spectral types O and B, located above the main sequence, with high luminosities and significant mass loss.";
     skos:prefLabel "OB supergiant stars"@en .
 
 <http://astrothesaurus.org/uat/1143>
@@ -1594,7 +1594,7 @@
 <http://astrothesaurus.org/uat/1144>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/73> ;
-    skos:note "Wikipedia definition round 1: Chemically peculiar stars of spectral types A and B" ;
+    skos:definition "Stars with magnetic axes inclined relative to their rotational axes, causing periodic magnetic and brightness variations." ;
     skos:prefLabel "Oblique rotators"@en .
 
 <http://astrothesaurus.org/uat/1145>
@@ -1603,7 +1603,7 @@
     a skos:Concept ;
     skos:altLabel "Imaging of stars"@en, "Stellar imaging"@en ;
     skos:narrower <http://astrothesaurus.org/uat/1043>, <http://astrothesaurus.org/uat/1684>, <http://astrothesaurus.org/uat/799>, <http://astrothesaurus.org/uat/91> ;
-    skos:note "Wikipedia definition round 1: Division of astronomy" ;
+    skos:definition "The branch of astronomy focused on acquiring and analyzing data from telescopes and instruments to study celestial objects." ;
     skos:prefLabel "Observational astronomy"@en ;
     skos:topConceptOf <http://astrothesaurus.org/uat/1> .
 
@@ -1628,7 +1628,7 @@
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/799> ;
     skos:narrower <http://astrothesaurus.org/uat/1170>, <http://astrothesaurus.org/uat/1350>, <http://astrothesaurus.org/uat/1513>, <http://astrothesaurus.org/uat/1543>, <http://astrothesaurus.org/uat/1739>, <http://astrothesaurus.org/uat/1774>, <http://astrothesaurus.org/uat/1819>, <http://astrothesaurus.org/uat/399>, <http://astrothesaurus.org/uat/47>, <http://astrothesaurus.org/uat/632>, <http://astrothesaurus.org/uat/791> ;
-    skos:note "Wikipedia definition round 1: Location used for observing terrestrial or celestial events" ;
+    skos:definition "Facilities equipped with telescopes and instruments for observing celestial phenomena, located on Earth or in space." ;
     skos:prefLabel "Observatories"@en ;
     skos:related <http://astrothesaurus.org/uat/94> .
 
@@ -1652,7 +1652,7 @@
     a skos:Concept ;
     skos:altLabel "Occulting discs"@en ;
     skos:broader <http://astrothesaurus.org/uat/1148> ;
-    skos:note "Wikipedia definition round 1: Disk used in telescopes to block a bright object" ;
+    skos:definition "Masks used in telescopes to block bright objects." ;
     skos:prefLabel "Occulting disks"@en .
 
 <http://astrothesaurus.org/uat/115>
@@ -1672,7 +1672,7 @@
 <http://astrothesaurus.org/uat/1150>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/437> ;
-    skos:note "AI?X definition round 1: Processes involving exchanges of energy, moisture, and momentum between the ocean and the atmosphere, influencing climate systems. Citation: Trenberth, K. E., et al., "Ocean-Atmosphere Interactions," Climate Dynamics, 1998.";
+    skos:definition "Processes involving exchanges of energy, moisture, and momentum between the ocean and the atmosphere, influencing climate systems.";
     skos:prefLabel "Ocean-atmosphere interactions"@en .
 
 <http://astrothesaurus.org/uat/1151>
@@ -1689,7 +1689,7 @@
     skos:altLabel "Diurnal"@en, "Semi-diurnal"@en ;
     skos:broader <http://astrothesaurus.org/uat/1702> ;
     skos:narrower <http://astrothesaurus.org/uat/1276> ;
-    skos:note "Wikipedia definition round 1: Rise and fall of the sea level under astronomical gravitational influences" ;
+    skos:definition "Rise and fall of the sea level under astronomical gravitational influences." ;
     skos:prefLabel "Ocean tides"@en .
 
 <http://astrothesaurus.org/uat/1153>
@@ -1698,7 +1698,7 @@
     a skos:Concept ;
     skos:altLabel "Oe-type stars"@en ;
     skos:broader <http://astrothesaurus.org/uat/1137>, <http://astrothesaurus.org/uat/428> ;
-    skos:note "Wikipedia definition round 1: Type of hot, massive star" ;
+    skos:definition "Stars of spectral type O with strong emission lines due to circumstellar matter." ;
     skos:prefLabel "Oe stars"@en .
 
 <http://astrothesaurus.org/uat/1154>
@@ -1707,7 +1707,7 @@
     a skos:Concept ;
     skos:altLabel "Oef-type stars"@en ;
     skos:broader <http://astrothesaurus.org/uat/1137>, <http://astrothesaurus.org/uat/428> ;
-    skos:note "Wikipedia definition round 1: 1964 film by John Hubley" ;
+    skos:definition "O-type stars with prominent He II emission lines in their spectra." ;
     skos:prefLabel "Oef stars"@en .
 
 <http://astrothesaurus.org/uat/1155>
@@ -1755,7 +1755,7 @@
     a skos:Concept ;
     skos:altLabel "OCOs"@en ;
     skos:broader <http://astrothesaurus.org/uat/1157> ;
-    skos:note "Wikipedia definition round 1: Distant planetesimals in the Solar System" ;
+    skos:definition "Objects originating from the Oort cloud." ;
     skos:prefLabel "Oort cloud objects"@en .
 
 <http://astrothesaurus.org/uat/1159>
@@ -1773,7 +1773,7 @@
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1255> ;
     skos:narrower <http://astrothesaurus.org/uat/113>, <http://astrothesaurus.org/uat/22> ;
-    skos:note "Wikipedia definition round 1: Study of the atmosphere, its processes, and its interactions with other systems" ;
+    skos:definition "Study of atmospheres, processes within them, and their interactions with other systems." ;
     skos:prefLabel "Atmospheric science"@en ;
     skos:related <http://astrothesaurus.org/uat/1244> .
 
@@ -1805,7 +1805,7 @@
     a skos:Concept ;
     skos:altLabel "Opik's theory"@en, "Öpik theory"@en, "Öpik's theory"@en ;
     skos:broader <http://astrothesaurus.org/uat/255> ;
-    skos:note "AI?X definition round 1: A model describing the close approaches and impacts of celestial bodies, used to estimate asteroid and comet collision probabilities with planets. Citation: Öpik, E. J., "Collision Probabilities with the Planets and the Distribution of Planetary Bodies," Proceedings of the Royal Irish Academy, 1951.";
+    skos:definition "A model describing the close approaches and impacts of celestial bodies, used to estimate asteroid and comet collision probabilities with planets.";
     skos:prefLabel "Opik theory"@en .
 
 <http://astrothesaurus.org/uat/1163>
@@ -1828,7 +1828,7 @@
     a skos:Concept ;
     skos:altLabel "Optical outbursts"@en, "Outbursts"@en ;
     skos:broader <http://astrothesaurus.org/uat/187> ;
-    skos:note "AI?X definition round 1: Transient optical emissions from astrophysical sources, such as gamma-ray burst afterglows or flaring stars. Citation: Gehrels, N., et al., "Gamma-Ray Bursts in the Swift Era," Annual Review of Astronomy and Astrophysics, 2009." ;
+    skos:definition "Short, transient increases of optical brightness from astrophysical sources, such as gamma-ray burst afterglows or flaring stars." ;
     skos:prefLabel "Optical bursts"@en ;
     skos:related <http://astrothesaurus.org/uat/1127>, <http://astrothesaurus.org/uat/154> .
 
@@ -1852,7 +1852,8 @@
 <http://astrothesaurus.org/uat/1166>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1603> ;
-    skos:note "AI?X definition round 1: Sudden, brief increases in optical brightness from astrophysical sources, such as stellar flares or accreting black holes. Citation: Kowalski, A. F., et al., "Optical Flares on Cool Stars," Astrophysical Journal, 2010.";
+    skos:definition "Sudden, brief increases in optical brightness resulting from stellar flares." ;
+    skos:note "We should have some well-defined relationship to 1164 here" ;
     skos:prefLabel "Optical flares"@en .
 
 <http://astrothesaurus.org/uat/1167>
@@ -1861,7 +1862,7 @@
     a skos:Concept ;
     skos:altLabel "Optical counterparts"@en ;
     skos:broader <http://astrothesaurus.org/uat/1776> ;
-    skos:note "AI?X definition round 1: The process of associating optical counterparts with non-optical sources, such as radio or X-ray detections. Citation: Windhorst, R. A., et al., "Optical Identification of Radio Sources," Astrophysical Journal, 1985.";
+    skos:definition "The process of associating optical counterparts with non-optical sources, such as radio or X-ray detections.";
     skos:prefLabel "Optical identification"@en .
 
 <http://astrothesaurus.org/uat/1168>
@@ -1869,7 +1870,7 @@
     skos:altLabel "Light interferometry"@en, "Stellar interferometry"@en ;
     skos:broader <http://astrothesaurus.org/uat/808> ;
     skos:narrower <http://astrothesaurus.org/uat/1171> ;
-    skos:note "Wikipedia definition round 1: Measurement method using interference of waves" ;
+    skos:definition "A technique combining light from multiple telescopes to achieve high angular resolution, applied to astronomical observations in or around the optical band." ;
     skos:prefLabel "Optical interferometry"@en .
 
 <http://astrothesaurus.org/uat/1169>
@@ -1879,7 +1880,7 @@
     skos:altLabel "Visual observation"@en ;
     skos:broader <http://astrothesaurus.org/uat/1684> ;
     skos:narrower <http://astrothesaurus.org/uat/1165>, <http://astrothesaurus.org/uat/1972> ;
-    skos:note "AI?X definition round 1: The collection of data from celestial objects in the optical wavelength range using telescopes and cameras. Citation: Zeilik, M., & Gregory, S. A., "Introductory Astronomy and Astrophysics," Saunders College Publishing, 1998.";
+    skos:definition "The collection of data from celestial objects using the human eye as the immediate detector, i.e., either with the naked eye or at least without intervening cameras" ;
     skos:prefLabel "Optical observation"@en ;
     skos:scopeNote "Astronomy using the (human) eye as the primary detector; this includes both naked-eye observations and observations through telescopes without further instrumentation (like cameras, spectrographs, etc)."@en .
 
@@ -1888,7 +1889,7 @@
     skos:altLabel "Terrestrial scintillation"@en ;
     skos:broader <http://astrothesaurus.org/uat/88> ;
     skos:narrower <http://astrothesaurus.org/uat/861> ;
-    skos:note "AI?X definition round 1: Rapid fluctuations in the intensity of starlight caused by turbulent air in Earth's atmosphere. Citation: Dravins, D., "Stellar Scintillation and Atmospheric Turbulence," Annual Review of Astronomy and Astrophysics, 1997.";
+    skos:definition "Rapid fluctuations in the intensity of starlight caused by turbulent air in Earth's atmosphere.";
     skos:prefLabel "Atmospheric scintillation"@en .
 
 <http://astrothesaurus.org/uat/1170>
@@ -1897,7 +1898,7 @@
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1147> ;
     skos:narrower <http://astrothesaurus.org/uat/1767>, <http://astrothesaurus.org/uat/761> ;
-    skos:note "AI?X definition round 1: Facilities equipped with telescopes and instruments dedicated to observing the universe in visible light. Citation: West, M., "The Architecture of Observatories," Astronomy & Geophysics, 2004.";
+    skos:definition "Facilities equipped with telescopes and instruments dedicated to observing the universe in visible light.";
     skos:prefLabel "Optical observatories"@en .
 
 <http://astrothesaurus.org/uat/1171>
@@ -1905,13 +1906,13 @@
     skos:altLabel "Optical phase-shifting interferometry"@en, "Phase shifting interferometry"@en, "Phase-shifting interferometry"@en ;
     skos:broader <http://astrothesaurus.org/uat/1168> ;
     skos:narrower <http://astrothesaurus.org/uat/1045>, <http://astrothesaurus.org/uat/989> ;
-    skos:note "AI?X definition round 1: A precise interferometric technique for measuring surface shapes or wavefronts by introducing controlled phase shifts. Citation: Hariharan, P., "Basics of Interferometry," Elsevier, 2007.";
+    skos:definition "A precise interferometric technique for measuring surface shapes or wavefronts by introducing controlled phase shifts." ;
     skos:prefLabel "Optical phase shifting interferometry"@en .
 
 <http://astrothesaurus.org/uat/1172>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/85> ;
-    skos:note "AI?X definition round 1: The coordinates of a celestial object as determined from optical observations, typically in right ascension and declination. Citation: Smart, W. M., "Spherical Astronomy," Cambridge University Press, 1977." ;
+    skos:definition "The coordinates of a celestial object as determined from optical observations." ;
     skos:prefLabel "Optical position"@en .
 
 <http://astrothesaurus.org/uat/1173>
@@ -1928,13 +1929,13 @@
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1689> ;
     skos:narrower <http://astrothesaurus.org/uat/1080>, <http://astrothesaurus.org/uat/1380>, <http://astrothesaurus.org/uat/1382>, <http://astrothesaurus.org/uat/1514>, <http://astrothesaurus.org/uat/204>, <http://astrothesaurus.org/uat/2344> ;
-    skos:note "Wikipedia definition round 1: Telescope for observations with visible light" ;
+    skos:definition "Light-collecting devices for observations with visible light." ;
     skos:prefLabel "Optical telescopes"@en .
 
 <http://astrothesaurus.org/uat/1175>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1184> ;
-    skos:note "AI?X definition round 1: The calculation of an object's orbit using observations of its position and motion over time. Citation: Roy, A. E., "Orbital Motion," Institute of Physics Publishing, 2004." ;
+    skos:definition "The calculation of an object's orbit using observations of its position and motion over time." ;
     skos:prefLabel "Orbit determination"@en .
 
 <http://astrothesaurus.org/uat/1176>
@@ -1942,7 +1943,7 @@
     skos:altLabel "Apparent anomaly"@en ;
     skos:broader <http://astrothesaurus.org/uat/1177> ;
     skos:narrower <http://astrothesaurus.org/uat/1019>, <http://astrothesaurus.org/uat/1719>, <http://astrothesaurus.org/uat/440> ;
-    skos:note "AI?X definition round 1: Deviations from predicted orbits caused by perturbations or measurement errors, used to infer additional gravitational influences. Citation: Murray, C. D., & Dermott, S. F., "Solar System Dynamics," Cambridge University Press, 1999.";
+    skos:definition "Deviations from predicted orbits caused by perturbations or measurement errors, used to infer additional gravitational influences.";
     skos:prefLabel "Orbital anomalies"@en .
 
 <http://astrothesaurus.org/uat/1177>
@@ -1958,20 +1959,20 @@
 <http://astrothesaurus.org/uat/1178>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/336> ;
-    skos:note "Wikipedia definition round 1: Curved path of an object around a point" ;
+    skos:definition "Secular changes of an object's orbit." ;
     skos:prefLabel "Orbital evolution"@en .
 
 <http://astrothesaurus.org/uat/1179>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1184> ;
     skos:narrower <http://astrothesaurus.org/uat/1189>, <http://astrothesaurus.org/uat/1196>, <http://astrothesaurus.org/uat/1212>, <http://astrothesaurus.org/uat/1275>, <http://astrothesaurus.org/uat/2325>, <http://astrothesaurus.org/uat/2326>, <http://astrothesaurus.org/uat/2327>, <http://astrothesaurus.org/uat/233>, <http://astrothesaurus.org/uat/457>, <http://astrothesaurus.org/uat/465>, <http://astrothesaurus.org/uat/62>, <http://astrothesaurus.org/uat/643>, <http://astrothesaurus.org/uat/706>, <http://astrothesaurus.org/uat/773>, <http://astrothesaurus.org/uat/884>, <http://astrothesaurus.org/uat/917>, <http://astrothesaurus.org/uat/964> ;
-    skos:note "Wikipedia definition round 1: Curved path of an object around a point" ;
+    skos:definition "The movement of celestial bodies along paths determined by gravitational forces." ;
     skos:prefLabel "Orbital motion"@en .
 
 <http://astrothesaurus.org/uat/118>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1244>, <http://astrothesaurus.org/uat/1702>, <http://astrothesaurus.org/uat/437> ;
-    skos:note "Wikipedia definition round 1: Global-scale periodic oscillations of the atmosphere" ;
+    skos:definition "Regular variations in the pressure auf the Earth atmosphere caused by gravitational forces from the Sun and Moon." ;
     skos:prefLabel "Atmospheric tides"@en .
 
 <http://astrothesaurus.org/uat/1180>
@@ -1995,14 +1996,14 @@
     skos:altLabel "Orbital resonance gaps"@en ;
     skos:broader <http://astrothesaurus.org/uat/1184>, <http://astrothesaurus.org/uat/669> ;
     skos:narrower <http://astrothesaurus.org/uat/889> ;
-    skos:note "Wikipedia definition round 1: Regular and periodic mutual gravitational influence of orbiting bodies" ;
+    skos:definition "Configurations in which two or more celestial bodies have orbital periods in small integer ratios, leading to enhanced gravitational interactions." ;
     skos:prefLabel "Orbital resonances"@en .
 
 <http://astrothesaurus.org/uat/1182>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1184> ;
     skos:narrower <http://astrothesaurus.org/uat/170> ;
-    skos:note "Wikipedia definition round 1: Method for describing the electronic structure of molecules using quantum mechanics" ;
+    skos:definition "The study of the dynamics and properties of orbits in celestial mechanics, incorporating gravitational and non-gravitational forces" ;
     skos:prefLabel "Orbital theory"@en .
 
 <http://astrothesaurus.org/uat/1183>
@@ -2047,7 +2048,7 @@
     skos:altLabel "Formation of the universe"@en ;
     skos:broader <http://astrothesaurus.org/uat/343> ;
     skos:narrower <http://astrothesaurus.org/uat/152>, <http://astrothesaurus.org/uat/1574>, <http://astrothesaurus.org/uat/435>, <http://astrothesaurus.org/uat/763> ;
-    skos:note "Wikipedia definition round 1: Theory or model concerning the origin of the universe" ;
+    skos:definition "Theoretical and observational studies on how the universe began, including the Big Bang theory and cosmic inflation." ;
     skos:prefLabel "Origin of the universe"@en .
 
 <http://astrothesaurus.org/uat/1187>
@@ -2099,14 +2100,14 @@
     a skos:Concept ;
     skos:altLabel "Atom interferometry"@en, "Atomic interferometry techniques"@en ;
     skos:broader <http://astrothesaurus.org/uat/808> ;
-    skos:note "AI?X definition round 1: A technique using matter waves of atoms to measure physical quantities like gravity and rotations with high precision. Citation: Cronin, A. D., et al., "Optics and Interferometry with Atoms and Molecules," Reviews of Modern Physics, 2009.";
+    skos:definition "AI?X definition round 1: A technique using matter waves of atoms to measure physical quantities like gravity and rotations with high precision. Citation: Cronin, A. D., et al., "Optics and Interferometry with Atoms and Molecules," Reviews of Modern Physics, 2009.";
     skos:prefLabel "Atomic interferometry"@en ;
     skos:related <http://astrothesaurus.org/uat/2063> .
 
 <http://astrothesaurus.org/uat/1190>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1177> ;
-    skos:note "AI?X definition round 1: Orbital elements that describe the instantaneous position and velocity of a body in its osculating orbit. Citation: Murray, C. D., & Dermott, S. F., "Solar System Dynamics," Cambridge University Press, 1999.";
+    skos:definition "Time-varying simplified orbital elements, typically for Kepler-type orbits, that describe the instantaneous motion of a body on a more complex orbit." ;
     skos:prefLabel "Osculatory elements"@en .
 
 <http://astrothesaurus.org/uat/1191>
@@ -2125,7 +2126,7 @@
     dcterms:modified "2018-08-27T21:45:36.000Z"^^xsd:dateTime ;
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/224> ;
-    skos:note "AI?X definition round 1: Elevated concentrations of specific elements or isotopes in stars or gas, often indicative of unique nucleosynthesis processes. Citation: Wallerstein, G., et al., "Synthesis of the Elements in Stars," Reviews of Modern Physics, 1997.";
+    skos:definition "Concentrations of specific elements or isotopes in stars or gas higer than predicted by a theory or common in a class of objects." ;
     skos:prefLabel "Overabundances"@en .
 
 <http://astrothesaurus.org/uat/1193>
@@ -2159,8 +2160,8 @@
 <http://astrothesaurus.org/uat/1195>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1131> ;
-    skos:note "Wikipedia definition round 1: Processes in astrophysics" ;
-    skos:prefLabel "P-process"@en .
+    skos:definition "A nucleosynthesis process producing proton-rich isotopes of elements by proton capture in extremely proton-dense environments." ;
+    skos:prefLabel "p-process"@en .
 
 <http://astrothesaurus.org/uat/1196>
     dcterms:contributor <http://editor.vocabs.ands.org.au/user/AAS_Frey.Katie> ;
