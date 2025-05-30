@@ -7182,7 +7182,7 @@
     a skos:Concept ;
     skos:altLabel "Stellar facula"@en ;
     skos:broader <http://astrothesaurus.org/uat/1237> ;
-    skos:note "AI?X definition round 1: Bright regions on the stellar surface associated with strong magnetic fields, often observed near sunspots. Citation: Solanki, S. K., "Small-Scale Solar Magnetic Fields," Annual Review of Astronomy and Astrophysics, 1993.";
+    skos:definition "The equivalent of solar faculae on the surfaces of other stars."@en ;
     skos:prefLabel "Stellar faculae"@en ;
     skos:related <http://astrothesaurus.org/uat/1494> .
 
@@ -7204,7 +7204,7 @@
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1619> ;
     skos:narrower <http://astrothesaurus.org/uat/1166>, <http://astrothesaurus.org/uat/1637>, <http://astrothesaurus.org/uat/390> ;
-    skos:note "Wikipedia definition round 1: Variable star that brightens unpredictably" ;
+    skos:definition "A medium-scale and brief eruption of a star, as for instance  flares of young F-type stars on their way to the main sequence or flares of M dwarfs."@en ;
     skos:prefLabel "Stellar flares"@en ;
     skos:related <http://astrothesaurus.org/uat/1496> .
 
@@ -7213,7 +7213,7 @@
     dcterms:modified "2016-11-02T15:38:03.000Z"^^xsd:dateTime ;
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1631> ;
-    skos:note "AI?X definition round 1: The spatial distribution of gas within and around stars, including stellar winds and circumstellar material. Citation: Lamers, H. J. G. L. M., & Cassinelli, J. P., "Introduction to Stellar Winds," Cambridge University Press, 1999.";
+    skos:definition "The spatial distribution of gas within and around stars, including stellar winds and circumstellar material."@en ;
     skos:prefLabel "Stellar gas distribution"@en .
 
 <http://astrothesaurus.org/uat/1605>
@@ -7221,7 +7221,7 @@
     dcterms:modified "2017-01-23T20:19:56.000Z"^^xsd:dateTime ;
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1592> ;
-    skos:note "AI?X definition round 1: The innermost regions of stars where nuclear fusion reactions dominate, driving the star's energy production. Citation: Hansen, C. J., et al., "Stellar Interiors," Springer, 1994.";
+    skos:definition "The innermost regions of stars where nuclear fusion reactions dominate, driving the star's energy production."@en ;
     skos:prefLabel "Stellar inner cores"@en ;
     skos:scopeNote "Central region of stars"@en .
 
@@ -7231,7 +7231,7 @@
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1631> ;
     skos:narrower <http://astrothesaurus.org/uat/1592> ;
-    skos:note "AI?X definition round 1: The internal regions of stars, including the core, radiative zone, and convective zone, studied to understand stellar structure and energy transport. Citation: Stix, M., "The Sun: An Introduction," Springer, 2002.";
+    skos:definition "The internal regions of stars, including the core, radiative zone, and convective zone, studied to understand stellar structure and energy transport."@en ;
     skos:prefLabel "Stellar interiors"@en ;
     skos:related <http://astrothesaurus.org/uat/1500> .
 
@@ -7239,7 +7239,7 @@
     a skos:Concept ;
     skos:altLabel "Bipolar outflows"@en, "Jet outflows"@en ;
     skos:broader <http://astrothesaurus.org/uat/1576>, <http://astrothesaurus.org/uat/870> ;
-    skos:note "Wikipedia definition round 1: Beam of ionized matter flowing along the axis of a rotating astronomical object" ;
+    skos:definition "High-velocity, collimated outflows of gas and plasma from stars, often associated with accretion processes in young stars."@en ;
     skos:prefLabel "Stellar jets"@en ;
     skos:related <http://astrothesaurus.org/uat/1613> .
 
@@ -7247,7 +7247,7 @@
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/612> ;
     skos:narrower <http://astrothesaurus.org/uat/1615> ;
-    skos:note "Wikipedia definition round 1: Study of the movement of stars" ;
+    skos:definition "The study of the motion of stars, including their velocities and trajectories."@en ;
     skos:prefLabel "Stellar kinematics"@en ;
     skos:related <http://astrothesaurus.org/uat/1582> .
 
@@ -7255,14 +7255,14 @@
     a skos:Concept ;
     skos:altLabel "Salpeter IMF"@en, "Salpeter function"@en, "Stellar luminosity"@en ;
     skos:broader <http://astrothesaurus.org/uat/1624> ;
-    skos:note "AI?X definition round 1: The total amount of energy emitted by a star per unit time, often expressed in terms of the Sun's luminosity. Citation: Salaris, M., & Cassisi, S., "Evolution of Stars and Stellar Populations," Wiley, 2005.";
+    skos:definition "The total amount of energy emitted by a star per unit time."@en ;
     skos:prefLabel "Stellar luminosities"@en .
 
 <http://astrothesaurus.org/uat/161>
     a skos:Concept ;
     skos:altLabel "Thermodynamics of black holes"@en ;
     skos:broader <http://astrothesaurus.org/uat/159> ;
-    skos:note "Wikipedia definition round 1: Area of study" ;
+    skos:definition "The study of black holes in the context of thermodynamic laws, connecting entropy, temperature, and radiation."@en ;
     skos:prefLabel "Black hole thermodynamics"@en .
 
 <http://astrothesaurus.org/uat/1610>
@@ -7271,7 +7271,7 @@
     a skos:Concept ;
     skos:altLabel "Stellar magnetospheres"@en ;
     skos:broader <http://astrothesaurus.org/uat/1624>, <http://astrothesaurus.org/uat/73> ;
-    skos:note "Wikipedia definition round 1: Magnetic field generated inside a star" ;
+    skos:definition "Magnetic fields generated inside a star" ;
     skos:prefLabel "Stellar magnetic fields"@en ;
     skos:related <http://astrothesaurus.org/uat/1503> .
 
@@ -7279,7 +7279,7 @@
     a skos:Concept ;
     skos:altLabel "Stellar black holes"@en ;
     skos:broader <http://astrothesaurus.org/uat/98> ;
-    skos:note "Wikipedia definition round 1: Black hole formed by a collapsed star" ;
+    skos:definition "Black hole formed by a collapsed star" ;
     skos:prefLabel "Stellar mass black holes"@en .
 
 <http://astrothesaurus.org/uat/1612>
@@ -7288,7 +7288,7 @@
     a skos:Concept ;
     skos:altLabel "IMF"@en ;
     skos:broader <http://astrothesaurus.org/uat/1624> ;
-    skos:note "AI?X definition round 1: The distribution of stellar masses in a population, critical for understanding star formation and Galactic evolution. Citation: Salpeter, E. E., "The Luminosity Function and Stellar Evolution," Astrophysical Journal, 1955.";
+    skos:definition "The distribution of stellar masses in a population."@en ;
     skos:prefLabel "Stellar mass functions"@en ;
     skos:related <http://astrothesaurus.org/uat/1614> .
 
@@ -7298,7 +7298,7 @@
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1619> ;
     skos:narrower <http://astrothesaurus.org/uat/1263> ;
-    skos:note "Wikipedia definition round 1: A Physical phenomenon" ;
+    skos:definition "A process by which stars lose mass, such as stellar winds, eruptions, or interactions with companions."@en ;
     skos:prefLabel "Stellar mass loss"@en ;
     skos:related <http://astrothesaurus.org/uat/1607>, <http://astrothesaurus.org/uat/1881>, <http://astrothesaurus.org/uat/310> .
 
@@ -7307,7 +7307,7 @@
     dcterms:modified "2018-08-27T21:40:07.000Z"^^xsd:dateTime ;
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1624> ;
-    skos:note "AI?X definition round 1: The mass of a star, which determines its evolution, lifespan, and final state. Citation: Hansen, C. J., et al., "Stellar Interiors," Springer, 1994.";
+    skos:definition "Masses of stars, determined kinematically or by comparison with models or other stars."@en ;
     skos:prefLabel "Stellar masses"@en ;
     skos:related <http://astrothesaurus.org/uat/1506>, <http://astrothesaurus.org/uat/1612> .
 
@@ -7315,7 +7315,7 @@
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1608> ;
     skos:narrower <http://astrothesaurus.org/uat/1295> ;
-    skos:note "Wikipedia definition round 1: Study of the movement of stars" ;
+    skos:definition "The movement of stars through space, including proper motion and radial velocity."@en ;
     skos:prefLabel "Stellar motion"@en ;
     skos:related <http://astrothesaurus.org/uat/1507> .
 
@@ -7340,7 +7340,7 @@
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1624>, <http://astrothesaurus.org/uat/73> ;
     skos:narrower <http://astrothesaurus.org/uat/1363> ;
-    skos:note "AI?X definition round 1: Vibrations within a star caused by internal waves, providing insights into its internal structure through asteroseismology. Citation: Aerts, C., et al., "Asteroseismology," Springer, 2010.";
+    skos:definition "Stable vibration modes within a star."@en ;
     skos:prefLabel "Stellar oscillations"@en ;
     skos:related <http://astrothesaurus.org/uat/1515> .
 
@@ -7366,7 +7366,7 @@
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1621> ;
     skos:narrower <http://astrothesaurus.org/uat/106>, <http://astrothesaurus.org/uat/1603>, <http://astrothesaurus.org/uat/1613>, <http://astrothesaurus.org/uat/1625>, <http://astrothesaurus.org/uat/187>, <http://astrothesaurus.org/uat/1881> ;
-    skos:note "AI?X definition round 1: Observable events or processes related to stars, including flares, pulsations, and magnetic activity. Citation: Gray, D. F., "The Observation and Analysis of Stellar Photospheres," Cambridge University Press, 2008.";
+    skos:definition "Observable events or processes related to stars"@en ;
     skos:prefLabel "Stellar phenomena"@en .
 
 <http://astrothesaurus.org/uat/162>
@@ -7422,14 +7422,14 @@
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1583> ;
     skos:narrower <http://astrothesaurus.org/uat/1282>, <http://astrothesaurus.org/uat/1284>, <http://astrothesaurus.org/uat/1285> ;
-    skos:note "Wikipedia definition round 1: Grouping of stars by similar metallicity" ;
+    skos:definition "Groups of stars classified by their age, composition, and location, such as Population I, II, or III stars."@en ;
     skos:prefLabel "Stellar populations"@en .
 
 <http://astrothesaurus.org/uat/1623>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1621> ;
     skos:narrower <http://astrothesaurus.org/uat/1593> ;
-    skos:note "AI?X definition round 1: Physical and chemical mechanisms that occur in and around stars, including nuclear fusion, convection, and radiation transport. Citation: Kippenhahn, R., & Weigert, A., "Stellar Structure and Evolution," Springer, 1990.";
+    skos:definition "Physical and chemical mechanisms that occur in and around stars, including nuclear fusion, convection, and radiation transport."@en ;
     skos:prefLabel "Stellar processes"@en .
 
 <http://astrothesaurus.org/uat/1624>
@@ -7439,7 +7439,7 @@
     skos:altLabel "Stellar characteristics"@en, "Stellar magnitude"@en ;
     skos:broader <http://astrothesaurus.org/uat/1621> ;
     skos:narrower <http://astrothesaurus.org/uat/1571>, <http://astrothesaurus.org/uat/1578>, <http://astrothesaurus.org/uat/1580>, <http://astrothesaurus.org/uat/1581>, <http://astrothesaurus.org/uat/1590>, <http://astrothesaurus.org/uat/1597>, <http://astrothesaurus.org/uat/1609>, <http://astrothesaurus.org/uat/1610>, <http://astrothesaurus.org/uat/1612>, <http://astrothesaurus.org/uat/1614>, <http://astrothesaurus.org/uat/1617>, <http://astrothesaurus.org/uat/1626>, <http://astrothesaurus.org/uat/1629>, <http://astrothesaurus.org/uat/1630>, <http://astrothesaurus.org/uat/501> ;
-    skos:note "AI?X definition round 1: Intrinsic characteristics of stars, such as mass, luminosity, radius, temperature, and composition, that define their structure and evolution. Citation: Salaris, M., & Cassisi, S., "Evolution of Stars and Stellar Populations," Wiley, 2005." ;
+    skos:definition "Intrinsic characteristics of stars, such as mass, luminosity, radius, temperature, and composition."@en ;
     skos:prefLabel "Stellar properties"@en .
 
 <http://astrothesaurus.org/uat/1625>
@@ -7448,7 +7448,7 @@
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1619> ;
     skos:narrower <http://astrothesaurus.org/uat/1078>, <http://astrothesaurus.org/uat/1117>, <http://astrothesaurus.org/uat/1309>, <http://astrothesaurus.org/uat/1331> ;
-    skos:note "AI?X definition round 1: Periodic expansions and contractions of a star caused by imbalances in gravitational and thermal energy, observable as brightness variations. Citation: Aerts, C., et al., "Asteroseismology," Springer, 2010." ;
+    skos:definition "Periodic expansions and contractions of a star caused by imbalances in gravitational and thermal energy, observable as brightness variations."@en ;
     skos:prefLabel "Stellar pulsations"@en .
 
 <http://astrothesaurus.org/uat/1626>
@@ -7457,7 +7457,7 @@
     a skos:Concept ;
     skos:altLabel "Stellar radius"@en ;
     skos:broader <http://astrothesaurus.org/uat/1624> ;
-    skos:note "Wikipedia definition round 1: Large self-illuminated object in space" ;
+    skos:definition "The physical size of stars, measured as the distance from their center to their outer visible layer."@en ;
     skos:prefLabel "Stellar radii"@en ;
     skos:related <http://astrothesaurus.org/uat/1488> .
 
@@ -7468,14 +7468,15 @@
     skos:altLabel "Late stage stellar evolution"@en, "Late stages of stellar evolution"@en, "Late-stage stellar evolution"@en ;
     skos:broader <http://astrothesaurus.org/uat/1583> ;
     skos:narrower <http://astrothesaurus.org/uat/1126>, <http://astrothesaurus.org/uat/1127>, <http://astrothesaurus.org/uat/1668>, <http://astrothesaurus.org/uat/288>, <http://astrothesaurus.org/uat/32>, <http://astrothesaurus.org/uat/367>, <http://astrothesaurus.org/uat/453> ;
-    skos:note "Wikipedia definition round 1: Classification in astronomy" ;
+    skos:definition "Compact objects left behind after a star's death, such as white dwarfs, neutron stars, or black holes."@en ;
+    skos:note "Or do we want to include the gaseous remnants as well?  Perhaps even bubbles and spurs?" ;
     skos:prefLabel "Stellar remnants"@en ;
     skos:related <http://astrothesaurus.org/uat/1664> .
 
 <http://astrothesaurus.org/uat/1628>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/598> ;
-    skos:note "AI?X definition round 1: Ring-like structures of gas, dust, or debris around stars, often remnants of planetary or binary interactions. Citation: Boley, A. C., et al., "Planet Formation and Stellar Rings," Astrophysical Journal, 2012.";
+    skos:definition "Ring-like structures of gas, dust, or debris around stars, often remnants of planetary or binary interactions."@en ;
     skos:prefLabel "Stellar rings"@en .
 
 <http://astrothesaurus.org/uat/1629>
@@ -7502,13 +7503,13 @@
     a skos:Concept ;
     skos:altLabel "Blank field"@en ;
     skos:broader <http://astrothesaurus.org/uat/534> ;
-    skos:note "Wikipedia definition round 1: Town in Inner Carniola, Slovenia" ;
+    skos:definition "Regions of the sky with few or no bright stars or galaxies."@en ;
     skos:prefLabel "Blank fields"@en .
 
 <http://astrothesaurus.org/uat/1630>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1624> ;
-    skos:note "AI?X definition round 1: Features in a star's spectrum caused by the absorption or emission of light by elements in its atmosphere, used to determine its composition and motion. Citation: Gray, D. F., "The Observation and Analysis of Stellar Photospheres," Cambridge University Press, 2008.";
+    skos:definition "Features in a star's spectrum caused by the absorption or emission of light by elements or molecules in its atmosphere."@en ;
     skos:prefLabel "Stellar spectral lines"@en .
 
 <http://astrothesaurus.org/uat/1631>
@@ -7517,7 +7518,7 @@
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1621> ;
     skos:narrower <http://astrothesaurus.org/uat/1281>, <http://astrothesaurus.org/uat/1604>, <http://astrothesaurus.org/uat/1606>, <http://astrothesaurus.org/uat/1632>, <http://astrothesaurus.org/uat/1642>, <http://astrothesaurus.org/uat/242>, <http://astrothesaurus.org/uat/299>, <http://astrothesaurus.org/uat/301> ;
-    skos:note "Wikipedia definition round 1: Structure of stars" ;
+    skos:definition "The arrangement of a star's internal regions, including the core, radiative zones, and convective zones."@en ;
     skos:prefLabel "Stellar structures"@en .
 
 <http://astrothesaurus.org/uat/1632>
@@ -7525,7 +7526,8 @@
     dcterms:modified "2018-08-27T21:52:34.000Z"^^xsd:dateTime ;
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1631> ;
-    skos:note "Wikipedia definition round 1: Nuclear explosion in a white dwarf star" ;
+    skos:definition "The outermost visible layer of a star, typically the photosphere, where light escapes into space."@en ;
+    skos:note "We should explain how this is different from 1237" ;
     skos:prefLabel "Stellar surfaces"@en ;
     skos:related <http://astrothesaurus.org/uat/1527> .
 
@@ -7533,7 +7535,7 @@
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/799> ;
     skos:narrower <http://astrothesaurus.org/uat/1454>, <http://astrothesaurus.org/uat/264>, <http://astrothesaurus.org/uat/712> ;
-    skos:note "AI?X definition round 1: Instruments used to follow the movement of stars across the sky, aiding in accurate observations and imaging. Citation: Wilson, R. N., "Reflecting Telescope Optics," Springer, 2000.";
+    skos:definition "Instruments used to follow the movement of stars across the sky."@en ;
     skos:prefLabel "Stellar tracking devices"@en .
 
 <http://astrothesaurus.org/uat/1634>
@@ -7543,7 +7545,7 @@
     skos:altLabel "Stars"@en ;
     skos:broader <http://astrothesaurus.org/uat/1583> ;
     skos:narrower <http://astrothesaurus.org/uat/1081>, <http://astrothesaurus.org/uat/1127>, <http://astrothesaurus.org/uat/1302>, <http://astrothesaurus.org/uat/1668>, <http://astrothesaurus.org/uat/1761>, <http://astrothesaurus.org/uat/1941>, <http://astrothesaurus.org/uat/2050>, <http://astrothesaurus.org/uat/2051>, <http://astrothesaurus.org/uat/2052>, <http://astrothesaurus.org/uat/2103>, <http://astrothesaurus.org/uat/226>, <http://astrothesaurus.org/uat/430>, <http://astrothesaurus.org/uat/460>, <http://astrothesaurus.org/uat/732>, <http://astrothesaurus.org/uat/818>, <http://astrothesaurus.org/uat/909> ;
-    skos:note "Wikipedia definition round 1: American book designer, painter and typeface designer" ;
+    skos:definition "ategories of stars based on characteristics such as spectral type, luminosity class, and evolutionary stage."@en ;
     skos:prefLabel "Stellar types"@en .
 
 <http://astrothesaurus.org/uat/1635>
@@ -7551,21 +7553,21 @@
     skos:altLabel "Interstellar bubbles"@en, "Stellar-wind bubbles"@en ;
     skos:broader <http://astrothesaurus.org/uat/847> ;
     skos:narrower <http://astrothesaurus.org/uat/711> ;
-    skos:note "Wikipedia definition round 1: Cavity of hot gas blown from a star" ;
+    skos:definition "Cavity of hot gas blown by a star" ;
     skos:prefLabel "Stellar wind bubbles"@en .
 
 <http://astrothesaurus.org/uat/1636>
     a skos:Concept ;
     skos:altLabel "Stellar outflows"@en ;
     skos:broader <http://astrothesaurus.org/uat/1576>, <http://astrothesaurus.org/uat/1621> ;
-    skos:note "Wikipedia definition round 1: Flow of gas ejected from the upper atmosphere of a star" ;
+    skos:definition "Flows of gas ejected from the upper atmosphere of stars." ;
     skos:prefLabel "Stellar winds"@en ;
     skos:related <http://astrothesaurus.org/uat/1534> .
 
 <http://astrothesaurus.org/uat/1637>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1603> ;
-    skos:note "AI?X definition round 1: Sudden, intense X-ray emissions from stars, often associated with magnetic reconnection events in their atmospheres. Citation: Güdel, M., "X-ray Astronomy of Stellar Coronae," Annual Review of Astronomy and Astrophysics, 2004.";
+    skos:definition "Sudden, intense X-ray emissions from stars, often associated with magnetic reconnection events in their atmospheres."@en ;
     skos:prefLabel "Stellar x-ray flares"@en .
 
 <http://astrothesaurus.org/uat/1638>
@@ -7574,7 +7576,7 @@
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/433> ;
     skos:example "Stonehenge"@en ;
-    skos:note "Wikipedia definition round 1: Ring of standing stones" ;
+    skos:definition "The study of ancient structures and their alignments to celestial phenomena, often reflecting early astronomical practices."@en ;
     skos:prefLabel "Stone circles"@en ;
     skos:related <http://astrothesaurus.org/uat/1022> .
 
@@ -7584,7 +7586,7 @@
     a skos:Concept ;
     skos:altLabel "Mesopeak"@en ;
     skos:broader <http://astrothesaurus.org/uat/437> ;
-    skos:note "Wikipedia definition round 1: Upper boundary of the stratosphere" ;
+    skos:definition "Upper boundary of the stratosphere" ;
     skos:prefLabel "Stratopause"@en .
 
 <http://astrothesaurus.org/uat/164>
@@ -7663,13 +7665,13 @@
 <http://astrothesaurus.org/uat/1644>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/226>, <http://astrothesaurus.org/uat/705> ;
-    skos:note "AI?X definition round 1: Chemically peculiar stars with strong strontium absorption lines in their spectra, often associated with enhanced s-process elements. Citation: Bidelman, W. P., "Strontium Stars," Publications of the Astronomical Society of the Pacific, 1951.";
+    skos:definition "Chemically peculiar stars with strong strontium absorption lines in their spectra, often associated with enhanced s-process elements."@en ;
     skos:prefLabel "Strontium stars"@en .
 
 <http://astrothesaurus.org/uat/1645>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/418> ;
-    skos:note "Wikipedia definition round 1: Cataclysmic variable star, consisting of a close binary star system" ;
+    skos:definition "A type of cataclysmic variable star formed by a close binary star system." ;
     skos:prefLabel "SU Ursae Majoris stars"@en .
 
 <http://astrothesaurus.org/uat/1646>
@@ -7708,7 +7710,7 @@
     a skos:Concept ;
     skos:altLabel "Sub-stellar companion stars"@en, "Sub-stellar companions"@en, "Substellar companions"@en ;
     skos:broader <http://astrothesaurus.org/uat/291> ;
-    skos:note "AI?X definition round 1: Objects with masses below the hydrogen-burning limit orbiting stars, including brown dwarfs and massive exoplanets. Citation: Burrows, A., et al., "Theory of Substellar Mass Objects," Reviews of Modern Physics, 2001.";
+    skos:definition "Objects with masses below the hydrogen-burning limit orbiting stars, including brown dwarfs and massive exoplanets."@en ;
     skos:prefLabel "Substellar companion stars"@en .
 
 <http://astrothesaurus.org/uat/1649>
@@ -7744,7 +7746,7 @@
 <http://astrothesaurus.org/uat/1650>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1487> ;
-    skos:note "Wikipedia definition round 1: Periodic change in the Suns activity" ;
+    skos:definition "The medium-scale (~10 year) periodic change in the Sun's activity" ;
     skos:prefLabel "Sunspot cycle"@en ;
     skos:related <http://astrothesaurus.org/uat/1653> .
 
@@ -7752,7 +7754,7 @@
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1653> ;
     skos:narrower <http://astrothesaurus.org/uat/156> ;
-    skos:note "Wikipedia definition round 1: Temporary spots on the Suns surface" ;
+    skos:definition "Clusters of sunspots often associated with active regions of intense magnetic activity on the Sun's surface."@en ;
     skos:prefLabel "Sunspot groups"@en .
 
 <http://astrothesaurus.org/uat/1652>
@@ -7858,19 +7860,19 @@
 <http://astrothesaurus.org/uat/1659>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1658> ;
-    skos:note "AI?X definition round 1: The angular distance of an object above or below the supergalactic plane, used in supergalactic coordinates to map large-scale cosmic structures. Citation: de Vaucouleurs, G., "The Supergalactic Plane," Science, 1953.";
+    skos:definition "The angular distance of an object above or below the supergalactic plane"@en ;
     skos:prefLabel "Supergalactic latitude"@en .
 
 <http://astrothesaurus.org/uat/166>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/586> ;
-    skos:note "AI?X definition round 1: A population of galaxies in color-magnitude diagrams with active star formation and blue optical colors. Citation: Baldry, I. K., et al., "Galaxy Bimodality in Color and Luminosity," Astrophysical Journal, 2004.";
+    skos:definition "A population of galaxies in color-magnitude diagrams with active star formation and blue optical colors."@en ;
     skos:prefLabel "Blue cloud galaxies"@en .
 
 <http://astrothesaurus.org/uat/1660>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1658> ;
-    skos:note "AI?X definition round 1: The angular distance of an object measured along the supergalactic plane from a defined zero point, used in supergalactic coordinates. Citation: de Vaucouleurs, G., "The Supergalactic Plane," Science, 1953.";
+    skos:definition "The angular distance of an object measured along the supergalactic plane from a defined zero point, used in supergalactic coordinates."@en ;
     skos:prefLabel "Supergalactic longitude"@en .
 
 <http://astrothesaurus.org/uat/1661>
@@ -7891,7 +7893,7 @@
 <http://astrothesaurus.org/uat/1662>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1498> ;
-    skos:note "Wikipedia definition round 1: Convective pattern on the Suns surface" ;
+    skos:definition "A pattern of large-scale convective cells on the solar surface, spanning ~30,000 km, associated with horizontal flows and magnetic network formation."@en ;
     skos:prefLabel "Supergranulation"@en .
 
 <http://astrothesaurus.org/uat/1663>
@@ -7912,7 +7914,7 @@
 <http://astrothesaurus.org/uat/1664>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1596> ;
-    skos:note "AI?X definition round 1: The physical processes and forces, such as shock waves and radiation pressure, that govern the explosion and evolution of supernovae. Citation: Woosley, S. E., & Weaver, T. A., "The Physics of Supernova Explosions," Annual Review of Astronomy and Astrophysics, 1986.";
+    skos:definition "The physical processes and forces, such as shock waves and radiation pressure, that govern the explosion and evolution of supernovae."@en ;
     skos:prefLabel "Supernova dynamics"@en ;
     skos:related <http://astrothesaurus.org/uat/1627>, <http://astrothesaurus.org/uat/1668>, <http://astrothesaurus.org/uat/503> .
 
@@ -7942,7 +7944,7 @@
 <http://astrothesaurus.org/uat/1666>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/96> ;
-    skos:note "Wikipedia definition round 1: Astronomical neutrinos produced during core-collapse supernova explosion" ;
+    skos:definition "Astronomical neutrinos produced during supernova explosions" ;
     skos:prefLabel "Supernova neutrinos"@en .
 
 <http://astrothesaurus.org/uat/1667>
@@ -8009,14 +8011,14 @@
     a skos:Concept ;
     skos:altLabel "Area photometry"@en ;
     skos:broader <http://astrothesaurus.org/uat/1234> ;
-    skos:note "AI?X definition round 1: The measurement of the brightness distribution over the surface of an extended astronomical object, such as a galaxy. Citation: Kent, S. M., "Surface Photometry of Galaxies," Annual Review of Astronomy and Astrophysics, 1985.";
+    skos:definition "The measurement of the brightness distribution over the surface of an extended astronomical object such as a galaxy."@en ;
     skos:prefLabel "Surface photometry"@en .
 
 <http://astrothesaurus.org/uat/1671>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/90> ;
     skos:narrower <http://astrothesaurus.org/uat/1357>, <http://astrothesaurus.org/uat/1378>, <http://astrothesaurus.org/uat/1464>, <http://astrothesaurus.org/uat/1568>, <http://astrothesaurus.org/uat/1742>, <http://astrothesaurus.org/uat/1824>, <http://astrothesaurus.org/uat/588>, <http://astrothesaurus.org/uat/883> ;
-    skos:note "Wikipedia definition round 1: Topics referred to by the same term" ;
+    skos:definition "Systematic observational campaigns designed to collect data across large areas of the sky or specific object populations."@en ;
     skos:prefLabel "Surveys"@en .
 
 <http://astrothesaurus.org/uat/1672>
@@ -8025,7 +8027,7 @@
     a skos:Concept ;
     skos:altLabel "Helium variable stars"@en, "SX Arietis stars"@en, "SX Arietis variables"@en ;
     skos:broader <http://astrothesaurus.org/uat/203>, <http://astrothesaurus.org/uat/418>, <http://astrothesaurus.org/uat/432>, <http://astrothesaurus.org/uat/996> ;
-    skos:note "AI?X definition round 1: Rapidly rotating B-type stars with magnetic fields and variability caused by non-uniform surface abundances. Citation: Catalano, F. A., et al., "SX Arietis Stars," Astronomy & Astrophysics, 1991.";
+    skos:definition "Rapidly rotating B-type stars with magnetic fields and variability caused by non-uniform surface abundances."@en ;
     skos:prefLabel "SX Arietis variable stars"@en .
 
 <http://astrothesaurus.org/uat/1673>
@@ -8034,7 +8036,7 @@
     a skos:Concept ;
     skos:altLabel "SX Phoenicis stars"@en, "SX Phoenicis variables"@en, "SX-Phoenicis variables"@en ;
     skos:broader <http://astrothesaurus.org/uat/1079> ;
-    skos:note "AI?X definition round 1: Pulsating stars in globular clusters, similar to Delta Scuti stars, with short periods and low metallicities. Citation: McNamara, D. H., "SX Phoenicis Stars in Globular Clusters," Publications of the Astronomical Society of the Pacific, 1995.";
+    skos:definition "Pulsating stars of low metallicity, high amplitude, and short periods"@en ;
     skos:prefLabel "SX Phoenicis variable stars"@en .
 
 <http://astrothesaurus.org/uat/1674>
@@ -8058,7 +8060,7 @@
     dcterms:modified "2018-09-13T15:28:10.000Z"^^xsd:dateTime ;
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1127>, <http://astrothesaurus.org/uat/1674> ;
-    skos:note "Wikipedia definition round 1: Slow irregular eruptive variable stars" ;
+    skos:definition "A subclass of cataclysmic variable stars involving a white dwarf and a red giant, characterized by nova outbursts and rich emission-line spectra."@en ;
     skos:prefLabel "Symbiotic novae"@en .
 
 <http://astrothesaurus.org/uat/1676>
@@ -8143,7 +8145,7 @@
     a skos:Concept ;
     skos:altLabel "T brown subdwarfs"@en, "T subdwarf stars"@en, "T-type brown subdwarfs"@en ;
     skos:broader <http://astrothesaurus.org/uat/185>, <http://astrothesaurus.org/uat/2054> ;
-    skos:note "AI?X definition round 1: Low-temperature substellar objects with atmospheres dominated by methane, representing the coolest subdwarf stars. Citation: Kirkpatrick, J. D., et al., "The First Methane Brown Dwarfs," Astrophysical Journal, 1999.";
+    skos:definition "Low-temperature substellar objects with atmospheres dominated by methane, representing the coolest subdwarf stars."@en ;
     skos:prefLabel "T subdwarfs"@en .
 
 <http://astrothesaurus.org/uat/1681>
