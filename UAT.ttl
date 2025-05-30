@@ -3409,7 +3409,7 @@
 <http://astrothesaurus.org/uat/1305>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1703> ;
-    skos:note "AI?X definition round 1: A technique for detecting gravitational waves or planets by measuring variations in the arrival times of pulsar signals. Citation: Lorimer, D. R., & Kramer, M., "Handbook of Pulsar Astronomy," Cambridge University Press, 2004." ;
+    skos:definition "A technique for detecting gravitational waves or planets by measuring variations in the arrival times of pulsar signals." ;
     skos:prefLabel "Pulsar timing method"@en .
 
 <http://astrothesaurus.org/uat/1306>
@@ -3447,7 +3447,7 @@
 <http://astrothesaurus.org/uat/1308>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1703> ;
-    skos:note "AI?X definition round 1: A technique for studying stellar interiors by analyzing the frequencies of pulsations observed in variable stars. Citation: Aerts, C., et al., "Asteroseismology," Springer, 2010.";
+    skos:definition "A technique for studying stellar interiors by analyzing the frequencies of pulsations observed in variable stars.";
     skos:prefLabel "Pulsation frequency method"@en .
 
 <http://astrothesaurus.org/uat/1309>
@@ -3501,19 +3501,19 @@
     a skos:Concept ;
     skos:altLabel "PV Telescopii"@en, "PV Telescopii variables"@en ;
     skos:broader <http://astrothesaurus.org/uat/1307> ;
-    skos:note "AI?X definition round 1: Rare, hydrogen-deficient supergiant stars exhibiting irregular variability in brightness. Citation: Rao, N. K., et al., "The Properties of PV Telescopii Stars," Monthly Notices of the Royal Astronomical Society, 1993.";
+    skos:definition "Hydrogen-deficient supergiant stars exhibiting irregular variability in brightness.";
     skos:prefLabel "PV Telescopii variable stars"@en .
 
 <http://astrothesaurus.org/uat/1312>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/566> ;
-    skos:note "Wikipedia definition round 1: Topics referred to by the same term" ;
+    skos:definition "The four circular sectors of the Milky Way galaxy, the first one ranging from 0 to 90 degrees of Galactic length." ;
     skos:prefLabel "Quadrants"@en .
 
 <http://astrothesaurus.org/uat/1313>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/343> ;
-    skos:note "Wikipedia definition round 1: Attempts to develop a quantum mechanical theory of cosmology" ;
+    skos:definition "The application of quantum mechanics to cosmological models, particularly to describe the early universe and singularities." ;
     skos:prefLabel "Quantum cosmology"@en .
 
 <http://astrothesaurus.org/uat/1314>
@@ -3552,19 +3552,19 @@
 <http://astrothesaurus.org/uat/1316>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1319>, <http://astrothesaurus.org/uat/573> ;
-    skos:note "AI?X definition round 1: Systems where a quasar and a galaxy are observed close to each other, often used to study galaxy halos and intergalactic medium. Citation: Bahcall, J. N., & Spitzer, L., "Absorption Lines Produced by Galaxy Halos," Astrophysical Journal, 1969.";
+    skos:definition "Systems where a quasar and a galaxy are observed close to each other, often used to study galaxy halos and intergalactic medium.";
     skos:prefLabel "Quasar-galaxy pairs"@en .
 
 <http://astrothesaurus.org/uat/1317>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/813> ;
-    skos:note "AI?X definition round 1: The study of absorption features in quasar spectra to probe intervening intergalactic gas and galaxies. Citation: Wolfe, A. M., et al., "Damped Ly-alpha Absorption Systems," Annual Review of Astronomy and Astrophysics, 2005.";
+    skos:definition "The study of absorption features in quasar spectra to probe intervening intergalactic gas and galaxies.";
     skos:prefLabel "Quasar absorption line spectroscopy"@en .
 
 <http://astrothesaurus.org/uat/1318>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/672> ;
-    skos:note "AI?X definition round 1: The magnification of quasar light caused by the gravitational lensing effects of stars in a foreground galaxy. Citation: Schneider, P., et al., "Microlensing in Quasar Systems," Annual Review of Astronomy and Astrophysics, 2006.";
+    skos:definition "The magnification of quasar light caused by the gravitational lensing effects of stars in a foreground galaxy.  Against general lensing, in microlensing the lensed images are unresolved.";
     skos:prefLabel "Quasar microlensing"@en .
 
 <http://astrothesaurus.org/uat/1319>
@@ -3600,7 +3600,7 @@
 <http://astrothesaurus.org/uat/1320>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/159> ;
-    skos:note "AI?X definition round 1: Damped oscillations characteristic of black holes or other compact objects, revealing their properties. Citation: Kokkotas, K. D., & Schmidt, B. G., "Quasinormal Modes of Stars and Black Holes," Living Reviews in Relativity, 1999." ;
+    skos:definition "Damped oscillations characteristic of black holes or other compact objects, revealing their properties." ;
     skos:prefLabel "Quasinormal modes"@en .
 
 <http://astrothesaurus.org/uat/1321>
@@ -3609,7 +3609,7 @@
     a skos:Concept ;
     skos:altLabel "Polar crown filament"@en ;
     skos:broader <http://astrothesaurus.org/uat/1495>, <http://astrothesaurus.org/uat/1519> ;
-    skos:note "AI?X definition round 1: Stable, long-lasting structures of cool, dense plasma suspended in the solar corona by magnetic fields. Citation: Mackay, D. H., et al., "Solar Prominences," Space Science Reviews, 2010.";
+    skos:definition "Stable, long-lasting structures of cool, dense plasma suspended in the solar corona by magnetic fields.";
     skos:prefLabel "Quiescent solar prominence"@en ;
     skos:related <http://astrothesaurus.org/uat/1322> .
 
@@ -3691,7 +3691,7 @@
     a skos:Concept ;
     skos:altLabel "R Coronae Borealis"@en, "R Coronae Borealis stars"@en, "R Coronae Borealis variables"@en, "R c b stars"@en, "R cor bor stars"@en, "R-Coronae Borealis variables"@en ;
     skos:broader <http://astrothesaurus.org/uat/540>, <http://astrothesaurus.org/uat/865> ;
-    skos:note "AI?X definition round 1: Rare, hydrogen-deficient supergiant stars with irregular declines in brightness due to carbon dust formation. Citation: Clayton, G. C., "The Enigmatic R Coronae Borealis Stars," Astrophysical Journal, 1996.";
+    skos:definition "Hydrogen-deficient late supergiant stars with irregular declines in brightness due to carbon dust formation.";
     skos:prefLabel "R Coronae Borealis variable stars"@en .
 
 <http://astrothesaurus.org/uat/1328>
@@ -3700,7 +3700,7 @@
     a skos:Concept ;
     skos:altLabel "Class R stars"@en, "R-type stars"@en ;
     skos:broader <http://astrothesaurus.org/uat/199>, <http://astrothesaurus.org/uat/2051>, <http://astrothesaurus.org/uat/655>, <http://astrothesaurus.org/uat/909> ;
-    skos:note "Wikipedia definition round 1: Programming language for statistics" ;
+    skos:definition "Carbon-rich giant stars of late spectral type, showing strong molecular carbon bands." ;
     skos:prefLabel "R stars"@en .
 
 <http://astrothesaurus.org/uat/1329>
@@ -3736,13 +3736,13 @@
 <http://astrothesaurus.org/uat/1330>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1360> ;
-    skos:note "Wikipedia definition round 1: Observing nearby astronomical objects by analyzing reflected microwaves" ;
+    skos:definition "Telescopes equipped with radar systems for transmitting and receiving radio waves to study celestial bodies." ;
     skos:prefLabel "Radar telescopes"@en .
 
 <http://astrothesaurus.org/uat/1331>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1625> ;
-    skos:note "Wikipedia definition round 1: Region of an astronomical diagram" ;
+    skos:definition "Oscillations in stars where the entire star expands and contracts radially, altering its brightness and temperature." ;
     skos:prefLabel "Radial pulsations"@en .
 
 <http://astrothesaurus.org/uat/1332>
@@ -3820,7 +3820,7 @@
 <http://astrothesaurus.org/uat/1337>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1338>, <http://astrothesaurus.org/uat/80> ;
-    skos:note "Wikipedia definition round 1: Branch of astronomy involving positioning and movements of celestial bodies" ;
+    skos:definition "The branch of astronomy that deals with the study of the Universe by means of electromagntic waves redwards of a few tenths of a millimeter" ;
     skos:prefLabel "Radio astrometry"@en .
 
 <http://astrothesaurus.org/uat/1338>
@@ -3862,7 +3862,7 @@
 <http://astrothesaurus.org/uat/134>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1800>, <http://astrothesaurus.org/uat/204> ;
-    skos:note "Wikipedia definition round 1: Astrophotographic telescope" ;
+    skos:definition "Wide-field optical cameras designed for satellite tracking, employing a large-aperture lens system for precise imaging." ;
     skos:prefLabel "Baker-Nunn cameras"@en .
 
 <http://astrothesaurus.org/uat/1340>
@@ -3883,7 +3883,7 @@
 <http://astrothesaurus.org/uat/1341>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/16>, <http://astrothesaurus.org/uat/622> ;
-    skos:note "Wikipedia definition round 1: Radio station in Tokoroa" ;
+    skos:definition "Compact, bright radio emission regions near the centers of active galactic nuclei, associated with the base of relativistic jets." ;
     skos:prefLabel "Radio cores"@en ;
     skos:related <http://astrothesaurus.org/uat/1358> .
 
@@ -3892,7 +3892,7 @@
     dcterms:modified "2018-08-27T21:02:15.000Z"^^xsd:dateTime ;
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1496> ;
-    skos:note "AI?X definition round 1: Intense bursts of radio waves associated with solar flares, caused by accelerated electrons interacting with plasma. Citation: White, S. M., et al., "Solar Radio Bursts and Flares," Space Science Reviews, 2011.";
+    skos:definition "Intense bursts of radio waves associated with solar flares, caused by accelerated electrons interacting with plasma.";
     skos:prefLabel "Solar radio flares"@en .
 
 <http://astrothesaurus.org/uat/1343>
@@ -3914,7 +3914,7 @@
 <http://astrothesaurus.org/uat/1344>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/16> ;
-    skos:note "AI?X definition round 1: Bright regions at the termination of radio jets in active galaxies, marking strong shock interactions with the intergalactic medium. Citation: Miley, G. K., "The Structure of Extended Radio Sources," Annual Review of Astronomy and Astrophysics, 1980.";
+    skos:definition "Radio-bright regions near the termination of galactic radio jets, marking strong shock interactions with the intergalactic medium." ;
     skos:prefLabel "Radio hot spots"@en .
 
 <http://astrothesaurus.org/uat/1345>
@@ -3936,7 +3936,7 @@
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/808> ;
     skos:narrower <http://astrothesaurus.org/uat/1769> ;
-    skos:note "Wikipedia definition round 1: Array used for astronomical observations" ;
+    skos:definition "A technique combining signals from multiple radio telescopes to achieve high angular resolution." ;
     skos:prefLabel "Radio interferometry"@en ;
     skos:scopeNote "See radio interferometer"@en .
 
@@ -4004,19 +4004,19 @@
 <http://astrothesaurus.org/uat/1350>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1147> ;
-    skos:note "AI?X definition round 1: Facilities equipped with radio telescopes for studying celestial sources emitting in the radio spectrum. Citation: Burke, B. F., & Graham-Smith, F., "An Introduction to Radio Astronomy," Cambridge University Press, 2010.";
+    skos:definition "Facilities equipped with radio telescopes for studying celestial sources emitting in the radio spectrum." ;
     skos:prefLabel "Radio observatories"@en .
 
 <http://astrothesaurus.org/uat/1351>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1148> ;
-    skos:note "Wikipedia definition round 1: Remote sensing technique" ;
+    skos:definition "Strong attenuation of radio waves as some absorbing matter passes through the line of sight from an observer to an object." ;
     skos:prefLabel "Radio occultation"@en .
 
 <http://astrothesaurus.org/uat/1352>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/16> ;
-    skos:note "AI?X definition round 1: Diffuse radio emissions extending from the cores or jets of galaxies, often indicative of older or less-collimated outflows. Citation: Harris, D. E., "Extended Radio Emissions in AGN," Space Science Reviews, 1978.";
+    skos:definition "Diffuse radio emissions extending from the cores or jets of galaxies, often indicative of older or less-collimated outflows."";
     skos:prefLabel "Radio plumes"@en .
 
 <http://astrothesaurus.org/uat/1353>
@@ -4052,7 +4052,7 @@
 <http://astrothesaurus.org/uat/1355>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/84> ;
-    skos:note "Wikipedia definition round 1: Device for receiving radio transmissions" ;
+    skos:definition "Devices for amplifying and recording radio signals." ;
     skos:prefLabel "Radio receivers"@en .
 
 <http://astrothesaurus.org/uat/1356>
@@ -4061,13 +4061,13 @@
     a skos:Concept ;
     skos:altLabel "Cambridge Catalogue of Radio Sources"@en, "MICA ICRF Radio Source Catalog"@en, "RADIO Master Catalog"@en, "Radio source catalogues"@en ;
     skos:broader <http://astrothesaurus.org/uat/205> ;
-    skos:note "AI?X definition round 1: Databases listing celestial objects observed in radio wavelengths, including their positions, flux densities, and classifications. Citation: Condon, J. J., & Ransom, S. M., "Essential Radio Astronomy," Princeton University Press, 2016.";
+    skos:definition "Databases listing celestial objects observed in radio wavelengths, including their positions, flux densities, and classifications." ;
     skos:prefLabel "Radio source catalogs"@en, "Radio source catalogues"@en-gb .
 
 <http://astrothesaurus.org/uat/1357>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1671> ;
-    skos:note "AI?X definition round 1: Statistical studies of the number of radio sources as a function of their brightness, providing insights into cosmological evolution. Citation: Longair, M. S., "High Energy Astrophysics," Cambridge University Press, 2011.";
+    skos:definition "Statistical studies of the number of radio sources as a function of their brightness." ;
     skos:prefLabel "Radio source counts"@en ;
     skos:related <http://astrothesaurus.org/uat/1358> .
 
@@ -4093,7 +4093,7 @@
     dcterms:modified "2020-10-21T19:56:09.839Z"^^xsd:dateTime ;
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1558> ;
-    skos:note "Wikipedia definition round 1: Measurement of electromagnetic radiation for astronomy" ;
+    skos:definition "The analysis of spectra in the radio domain to study the physical and chemical properties of astronomical objects." ;
     skos:prefLabel "Radio spectroscopy"@en ;
     skos:related <http://astrothesaurus.org/uat/1338> .
 
@@ -4131,20 +4131,20 @@
 <http://astrothesaurus.org/uat/1361>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1360>, <http://astrothesaurus.org/uat/1531> ;
-    skos:note "AI?X definition round 1: Radio telescopes designed to image the Sun in radio wavelengths, providing insights into solar activity and corona. Citation: Benz, A. O., "Plasma Astrophysics," Springer, 2002.";
+    skos:definition "Radio telescopes designed to image the Sun in radio wavelengths, providing insights into solar activity and corona." ;
     skos:prefLabel "Radioheliographs"@en .
 
 <http://astrothesaurus.org/uat/1362>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/187> ;
-    skos:note "Wikipedia definition round 1: Class of X-ray binary stars" ;
+    skos:definition "Large, but very short-term emission increases in astronomical objects" ;
     skos:prefLabel "Rapid bursts"@en .
 
 <http://astrothesaurus.org/uat/1363>
     a skos:Concept ;
     skos:altLabel "RoAp oscillations"@en ;
     skos:broader <http://astrothesaurus.org/uat/1617> ;
-    skos:note "AI?X definition round 1: Short-period pulsations in stars, often observed in compact or rapidly rotating stars. Citation: Unno, W., et al., "Nonradial Oscillations of Stars," University of Tokyo Press, 1989.";
+    skos:definition "Short-period pulsations in stars, often observed in compact or rapidly rotating stars.";
     skos:prefLabel "Rapid stellar oscillations"@en .
 
 <http://astrothesaurus.org/uat/1364>
@@ -4194,7 +4194,7 @@
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/540> ;
     skos:example "Proxima Centauri"@en ;
-    skos:note "AI?X definition round 1: Low-mass, cool stars that exhibit sudden, intense bursts of energy due to magnetic activity, often observed in the ultraviolet and X-ray bands. Citation: Linsky, J. L., "Stellar Activity and Flares on Red Dwarfs," Annual Review of Astronomy and Astrophysics, 1985.";
+    skos:definition "Low-mass, cool stars that exhibit sudden, intense bursts of energy due to magnetic activity, often observed in the ultraviolet and X-ray bands.";
     skos:prefLabel "Red dwarf flare stars"@en .
 
 <http://astrothesaurus.org/uat/1368>
@@ -4217,7 +4217,7 @@
     a skos:Concept ;
     skos:altLabel "Red bump"@en ;
     skos:broader <http://astrothesaurus.org/uat/1368> ;
-    skos:note "AI?X definition round 1: A feature in the luminosity function of red giant stars, caused by a temporary halt in brightness increase as the hydrogen-burning shell crosses a molecular weight discontinuity. Citation: Thomas, H.-C., "The Red Giant Bump in Stellar Evolution," Astronomy & Astrophysics, 1967.";
+    skos:definition "An elevated part in the luminosity function of red giant stars caused by an evolutionary pause on the first-ascent red giant branch" ;
     skos:prefLabel "Red giant bump"@en .
 
 <http://astrothesaurus.org/uat/137>
@@ -4239,13 +4239,13 @@
     a skos:Concept ;
     skos:altLabel "Red clump"@en ;
     skos:broader <http://astrothesaurus.org/uat/1368> ;
-    skos:note "AI?X definition round 1: A group of helium-core-burning stars on the Hertzsprung-Russell diagram, characterized by relatively uniform luminosities and used as standard candles. Citation: Girardi, L., "The Red Clump as a Distance Indicator," Annual Review of Astronomy and Astrophysics, 2016.";
+    skos:definition "A group of helium-core-burning stars on the Hertzsprung-Russell diagram, characterized by relatively uniform luminosities and used as standard candles.";
     skos:prefLabel "Red giant clump"@en .
 
 <http://astrothesaurus.org/uat/1371>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1368> ;
-    skos:note "AI?X definition round 1: The brightest point in the red giant branch before the onset of helium-core ignition, used as a distance indicator. Citation: Salaris, M., & Cassisi, S., "The Red Giant Branch Tip as a Distance Indicator," Publications of the Astronomical Society of the Pacific, 1997.";
+    skos:definition "The brightest point in the red giant branch before the onset of helium-core ignition, used as a distance indicator." ;
     skos:prefLabel "Red giant tip"@en .
 
 <http://astrothesaurus.org/uat/1372>
@@ -4269,7 +4269,7 @@
 <http://astrothesaurus.org/uat/1373>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/586> ;
-    skos:note "AI?X definition round 1: Galaxies on the red sequence in a color-magnitude diagram, typically older, quiescent, and dominated by older stellar populations. Citation: Bower, R. G., et al., "The Color-Magnitude Relation of Galaxies," Monthly Notices of the Royal Astronomical Society, 1992.";
+    skos:definition "Galaxies on the red sequence in a color-magnitude diagram, typically older, quiescent, and dominated by older stellar populations.";
     skos:prefLabel "Red sequence galaxies"@en .
 
 <http://astrothesaurus.org/uat/1374>
@@ -4278,7 +4278,7 @@
     a skos:Concept ;
     skos:altLabel "Red stragglers"@en, "Red-straggler stars"@en ;
     skos:broader <http://astrothesaurus.org/uat/1372> ;
-    skos:note "AI?X definition round 1: Stars found in the red giant region of the Hertzsprung-Russell diagram but with unexpected properties, possibly due to binary interactions. Citation: Mathieu, R. D., & Geller, A. M., "Binary Stars in Clusters," Annual Review of Astronomy and Astrophysics, 2009.";
+    skos:definition "Later-type (against blue straggler) cluster stars with colors between that of the turnoff in the particular cluster and the red-giant branch, but brighter than the subgiant branch." ;
     skos:prefLabel "Red straggler stars"@en .
 
 <http://astrothesaurus.org/uat/1375>
@@ -4315,14 +4315,14 @@
 <http://astrothesaurus.org/uat/1377>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/505> ;
-    skos:note "Wikipedia definition round 1: Interstellar absorption and scattering of light" ;
+    skos:definition "The wavelength dependence of interstellar extinction caused by dust along the line of sight.";
     skos:prefLabel "Reddening law"@en .
 
 <http://astrothesaurus.org/uat/1378>
     a skos:Concept ;
     skos:altLabel "Galaxy redshifts"@en, "Galaxy surveys"@en ;
     skos:broader <http://astrothesaurus.org/uat/1671> ;
-    skos:note "AI?X definition round 1: Large-scale astronomical surveys measuring the redshifts of galaxies and quasars to map the structure and distribution of the universe. Citation: York, D. G., et al., "The Sloan Digital Sky Survey," Astronomical Journal, 2000." ;
+    skos:definition "Astronomical surveys measuring the redshifts of galaxies and quasars to map the structure and distribution of the universe." ;
     skos:prefLabel "Redshift surveys"@en ;
     skos:related <http://astrothesaurus.org/uat/1379> .
 
@@ -4454,52 +4454,52 @@
     a skos:Concept ;
     skos:altLabel "Relativistic binaries"@en, "Relativistic binary"@en ;
     skos:broader <http://astrothesaurus.org/uat/1392>, <http://astrothesaurus.org/uat/154>, <http://astrothesaurus.org/uat/739> ;
-    skos:note "AI?X definition round 1: Binary star systems in which relativistic effects, such as gravitational wave emission and periastron precession, are significant. Citation: Hulse, R. A., & Taylor, J. H., "Discovery of a Pulsar in a Binary System," Astrophysical Journal, 1975.";
+    skos:definition "Binary star systems in which relativistic effects, such as gravitational wave emission and periastron precession, are significant.";
     skos:prefLabel "Relativistic binary stars"@en .
 
 <http://astrothesaurus.org/uat/1387>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/343> ;
-    skos:note "AI?X definition round 1: The application of general relativity to model the structure, dynamics, and evolution of the universe. Citation: Peebles, P. J. E., "Principles of Physical Cosmology," Princeton University Press, 1993.";
+    skos:definition "The application of general relativity to model the structure, dynamics, and evolution of the universe.";
     skos:prefLabel "Relativistic cosmology"@en .
 
 <http://astrothesaurus.org/uat/1388>
     a skos:Concept ;
     skos:altLabel "Relativistic discs"@en ;
     skos:broader <http://astrothesaurus.org/uat/16> ;
-    skos:note "AI?X definition round 1: Accretion disks around compact objects, such as black holes, where relativistic effects significantly influence dynamics and radiation. Citation: Novikov, I. D., & Thorne, K. S., "Astrophysics of Black Holes," in Black Holes, Gordon and Breach, 1973." ;
+    skos:definition "Accretion disks around compact objects, such as black holes, where relativistic effects significantly influence dynamics and radiation." ;
     skos:prefLabel "Relativistic disks"@en .
 
 <http://astrothesaurus.org/uat/1389>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1391> ;
-    skos:note "AI?X definition round 1: The study of fluid motion in astrophysical settings where relativistic effects, such as high velocities or strong gravitational fields, are critical. Citation: Rezzolla, L., & Zanotti, O., "Relativistic Hydrodynamics," Oxford University Press, 2013.";
+    skos:definition "The study of fluid motion in astrophysical settings where relativistic effects (due to high velocities or strong gravitational fields) become important.";
     skos:prefLabel "Relativistic fluid dynamics"@en .
 
 <http://astrothesaurus.org/uat/139>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/372> ;
-    skos:note "AI?X definition round 1: The density of baryonic matter (protons and neutrons) in the universe, critical for understanding cosmology and structure formation. Citation: Peebles, P. J. E., "Principles of Physical Cosmology," Princeton University Press, 1993.";
+    skos:definition "The density of baryonic matter in the universe." ;
     skos:prefLabel "Baryon density"@en .
 
 <http://astrothesaurus.org/uat/1390>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1347> ;
-    skos:note "Wikipedia definition round 1: Beam of ionized matter flowing along the axis of a rotating astronomical object" ;
+    skos:definition "Narrow beams of relativistic particles emitted from compact objects, such as black holes or neutron stars, often observed in radio galaxies and quasars." ;
     skos:prefLabel "Relativistic jets"@en .
 
 <http://astrothesaurus.org/uat/1391>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1393> ;
     skos:narrower <http://astrothesaurus.org/uat/1389> ;
-    skos:note "Wikipedia definition round 1: Theory of motion and forces for objects close to the speed of light" ;
+    skos:definition "Theory of motion and forces for objects in strong gravitational fields or at velocities of the order of the speed of light" ;
     skos:prefLabel "Relativistic mechanics"@en .
 
 <http://astrothesaurus.org/uat/1392>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1108> ;
     skos:narrower <http://astrothesaurus.org/uat/1386> ;
-    skos:note "Wikipedia definition round 1: Category of star" ;
+    skos:definition "Compact stars, such as neutron stars or black holes, where general relativistic effects play a crucial role in their structure and evolution." ;
     skos:prefLabel "Relativistic stars"@en .
 
 <http://astrothesaurus.org/uat/1393>
@@ -4507,7 +4507,7 @@
     skos:altLabel "Relativistic astrophysics"@en, "Relativistic models"@en ;
     skos:broader <http://astrothesaurus.org/uat/104> ;
     skos:narrower <http://astrothesaurus.org/uat/1391>, <http://astrothesaurus.org/uat/1551>, <http://astrothesaurus.org/uat/641> ;
-    skos:note "Wikipedia definition round 1: Topics referred to by the same term" ;
+    skos:definition "The physical theory developed by Albert Einstein, encompassing special and general relativity, describing spacetime, gravity, and motion." ;
     skos:prefLabel "Relativity"@en ;
     skos:related <http://astrothesaurus.org/uat/661> .
 
@@ -4529,7 +4529,7 @@
 <http://astrothesaurus.org/uat/1395>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/97> ;
-    skos:note "AI?X definition round 1: The use of remotely operated telescopes to capture astronomical images, enabling global access to high-quality observations. Citation: Guiderdoni, B., "Remote Observing in Modern Astronomy," Experimental Astronomy, 1993.";
+    skos:definition "The use of remotely operated telescopes to capture astronomical images.";
     skos:prefLabel "Remote telescope astrophotography"@en .
 
 <http://astrothesaurus.org/uat/1396>
@@ -4537,20 +4537,20 @@
     skos:altLabel "Resonant Kuiper-belt objects"@en ;
     skos:broader <http://astrothesaurus.org/uat/1705> ;
     skos:narrower <http://astrothesaurus.org/uat/1266>, <http://astrothesaurus.org/uat/1430>, <http://astrothesaurus.org/uat/1727> ;
-    skos:note "Wikipedia definition round 1: Trans-Neptunian object in a mean-motion orbital resonance with Neptune" ;
+    skos:definition "Trans-Neptunian objects in a mean-motion orbital resonance with Neptune" ;
     skos:prefLabel "Resonant Kuiper belt objects"@en .
 
 <http://astrothesaurus.org/uat/1397>
     a skos:Concept ;
     skos:altLabel "Red-green-blue photometry"@en ;
     skos:broader <http://astrothesaurus.org/uat/184> ;
-    skos:note "AI?X definition round 1: Photometric measurements using red, green, and blue filters, commonly employed for color imaging in astronomy. Citation: Bessell, M. S., "Photometric Systems," Annual Review of Astronomy and Astrophysics, 2005.";
+    skos:definition "Photometry in passbands comparable to the effective passband of commercial RGB (red-green-blue) producing imaging devices" ;
     skos:prefLabel "RGB photometry"@en .
 
 <http://astrothesaurus.org/uat/1398>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/184> ;
-    skos:note "AI?X definition round 1: A photometric system using red, green, and ultraviolet filters, designed for studying stellar populations in the Milky Way. Citation: Wielen, R., "The RGU Photometric System," Astronomy & Astrophysics, 1971.";
+    skos:definition "A photometric system using red, green, and ultraviolet filters, designed for studying stellar populations in the Milky Way.";
     skos:prefLabel "RGU photometry"@en .
 
 <http://astrothesaurus.org/uat/1399>
@@ -4616,7 +4616,7 @@
     a skos:Concept ;
     skos:altLabel "Ring nebula"@en ;
     skos:broader <http://astrothesaurus.org/uat/1095> ;
-    skos:note "Wikipedia definition round 1: Planetary nebula in Lyra" ;
+    skos:definition "Planetary nebulae with a ring-like appearance" ;
     skos:prefLabel "Ring nebulae"@en .
 
 <http://astrothesaurus.org/uat/1402>
