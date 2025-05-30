@@ -2772,14 +2772,14 @@
 <http://astrothesaurus.org/uat/1252>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1545> ;
-    skos:note "Wikipedia definition round 1: Spacecraft without people on board" ;
+    skos:definition "Unmanned spacecraft designed to explore planets and gather data on their atmospheres, surfaces, and interiors." ;
     skos:prefLabel "Planetary probes"@en .
 
 <http://astrothesaurus.org/uat/1253>
     a skos:Concept ;
     skos:altLabel "Cassini ring division"@en, "Cassini's Division"@en, "Saturn ring division"@en ;
     skos:broader <http://astrothesaurus.org/uat/1254> ;
-    skos:note "AI?X definition round 1: Gaps and separations within planetary ring systems, caused by resonances with moons or other gravitational influences. Citation: Cuzzi, J. N., et al., "Planetary Rings," Annual Review of Astronomy and Astrophysics, 2010.";
+    skos:definition "Gaps and separations within planetary ring systems, caused by resonances with moons or other gravitational influences.";
     skos:prefLabel "Planetary ring divisions"@en .
 
 <http://astrothesaurus.org/uat/1254>
@@ -2789,7 +2789,7 @@
     skos:altLabel "Circumplanetary dust"@en, "Circumplanetary matter"@en, "Circumplanetary medium"@en ;
     skos:broader <http://astrothesaurus.org/uat/1528> ;
     skos:narrower <http://astrothesaurus.org/uat/1253>, <http://astrothesaurus.org/uat/1451>, <http://astrothesaurus.org/uat/1562>, <http://astrothesaurus.org/uat/2295>, <http://astrothesaurus.org/uat/45> ;
-    skos:note "Wikipedia definition round 1: Ring of cosmic dust orbiting an astronomical object" ;
+    skos:definition "Disk-like structures composed of particles orbiting planets, often maintained by gravitational interactions with moons." ;
     skos:prefLabel "Planetary rings"@en ;
     skos:related <http://astrothesaurus.org/uat/494> .
 
@@ -2825,7 +2825,8 @@
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1255> ;
     skos:narrower <http://astrothesaurus.org/uat/1241>, <http://astrothesaurus.org/uat/1300>, <http://astrothesaurus.org/uat/1530> ;
-    skos:note "AI?X definition round 1: The process by which planetary systems develop from protoplanetary disks around young stars. Citation: Armitage, P. J., "Astrophysics of Planet Formation," Cambridge University Press, 2010.";
+    skos:definition "The process by which planetary systems develop from protoplanetary disks around young stars." ;
+    skos:note "If we want both this an 1241, we should clearly define when to use one or the other" ;
     skos:prefLabel "Planetary system formation"@en .
 
 <http://astrothesaurus.org/uat/1258>
@@ -2846,7 +2847,7 @@
     a skos:Concept ;
     skos:altLabel "B dwarfs"@en, "B-type dwarf stars"@en, "B-type dwarfs"@en ;
     skos:broader <http://astrothesaurus.org/uat/128>, <http://astrothesaurus.org/uat/2053> ;
-    skos:note "AI?X definition round 1: Main-sequence stars of spectral type B, characterized by high surface temperatures (10,000–30,000 K) and luminosities. Citation: Carroll, B. W., & Ostlie, D. A., "An Introduction to Modern Astrophysics," Pearson, 2017.";
+    skos:definition "Main-sequence stars of spectral type B, characterized by high surface temperatures (10,000–30,000 K) and luminosities.";
     skos:prefLabel "B dwarf stars"@en .
 
 <http://astrothesaurus.org/uat/1260>
@@ -2856,7 +2857,7 @@
     skos:altLabel "Planets"@en, "Planets (Solar system)"@en ;
     skos:broader <http://astrothesaurus.org/uat/1528> ;
     skos:narrower <http://astrothesaurus.org/uat/1191>, <http://astrothesaurus.org/uat/797> ;
-    skos:note "AI?X definition round 1: The eight major planets orbiting the Sun, ranging from rocky terrestrial planets to gas giants. Citation: Lunine, J. I., "The Physics of Planets," Cambridge University Press, 1993." ;
+    skos:definition "The eight major planets orbiting the Sun." ;
     skos:prefLabel "Solar system planets"@en ;
     skos:related <http://astrothesaurus.org/uat/1089>, <http://astrothesaurus.org/uat/498> .
 
@@ -2866,20 +2867,20 @@
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/343>, <http://astrothesaurus.org/uat/739> ;
     skos:narrower <http://astrothesaurus.org/uat/1544>, <http://astrothesaurus.org/uat/1964>, <http://astrothesaurus.org/uat/2086>, <http://astrothesaurus.org/uat/318> ;
-    skos:note "AI?X definition round 1: The study of the behavior of ionized gases in astrophysical settings, such as stars, accretion disks, and interstellar space. Citation: Priest, E., "Magnetohydrodynamics in Plasma Astrophysics," Cambridge University Press, 2014." ;
+    skos:definition "The study of the behavior of ionized gases in astrophysical settings, such as stars, accretion disks, and interstellar space." ;
     skos:prefLabel "Plasma astrophysics"@en ;
     skos:related <http://astrothesaurus.org/uat/2089> .
 
 <http://astrothesaurus.org/uat/1262>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/834> ;
-    skos:note "AI?X definition round 1: Ionized gas structures found in various astrophysical environments, such as solar flares and interstellar space. Citation: Kivelson, M. G., & Russell, C. T., "Introduction to Space Physics," Cambridge University Press, 1995.";
+    skos:definition "Ionized gas structures found in various astrophysical environments, such as solar flares and interstellar space., "Introduction to Space Physics," Cambridge University Press, 1995.";
     skos:prefLabel "Plasma clouds"@en .
 
 <http://astrothesaurus.org/uat/1263>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1613>, <http://astrothesaurus.org/uat/870> ;
-    skos:note "AI?X definition round 1: High-velocity streams of ionized gas ejected from stars, accretion disks, or active galactic nuclei, often collimated by magnetic fields. Citation: Livio, M., "Astrophysical Jets," Nature, 1999.";
+    skos:definition "High-velocity streams of ionized gas ejected from stars, accretion disks, or active galactic nuclei, often collimated by magnetic fields.";
     skos:prefLabel "Plasma jets"@en .
 
 <http://astrothesaurus.org/uat/1264>
@@ -2912,7 +2913,7 @@
     dcterms:modified "2020-12-16T20:30:23.780Z"^^xsd:dateTime ;
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1396> ;
-    skos:note "Wikipedia definition round 1: In astronomy, a dynamical group of trans-Neptunian objects" ;
+    skos:definition "Trans-Neptunian objects in a 2:3 orbital resonance with Neptune, similar to Pluto." ;
     skos:prefLabel "Plutinos"@en .
 
 <http://astrothesaurus.org/uat/1267>
@@ -2929,14 +2930,14 @@
     dcterms:modified "2020-12-04T03:10:41.521Z"^^xsd:dateTime ;
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1705> ;
-    skos:note "Wikipedia definition round 1: Small planetary-mass object" ;
+    skos:definition "Icy dwarf planets located beyond Neptune, including Pluto, Eris, Haumea, and Makemake." ;
     skos:prefLabel "Plutoids"@en .
 
 <http://astrothesaurus.org/uat/1269>
     a skos:Concept ;
     skos:altLabel "Pogson's scale"@en ;
     skos:broader <http://astrothesaurus.org/uat/59> ;
-    skos:note "AI?X definition round 1: A logarithmic scale for measuring stellar brightness, where each magnitude difference of 5 corresponds to a factor of 100 in brightness. Citation: Pogson, N., "Magnitudes of Stars," Monthly Notices of the Royal Astronomical Society, 1856.";
+    skos:definition "A logarithmic scale for measuring stellar brightness, where each magnitude difference of 5 corresponds to a factor of 100 in brightness.";
     skos:prefLabel "Pogson scale"@en .
 
 <http://astrothesaurus.org/uat/127>
@@ -2945,7 +2946,7 @@
     a skos:Concept ;
     skos:altLabel "B giants"@en, "B-type giant stars"@en, "B-type giants"@en ;
     skos:broader <http://astrothesaurus.org/uat/128>, <http://astrothesaurus.org/uat/655> ;
-    skos:note "AI?X definition round 1: Evolved stars of spectral type B that have expanded and brightened after leaving the main sequence. Citation: Gray, R. O., & Corbally, C. J., "Stellar Spectral Classification," Princeton University Press, 2009.";
+    skos:definition "Evolved stars of spectral type B that have expanded and brightened after leaving the main sequence.";
     skos:prefLabel "B giant stars"@en .
 
 <http://astrothesaurus.org/uat/1270>
@@ -2953,20 +2954,20 @@
     dcterms:modified "2018-08-29T18:45:15.000Z"^^xsd:dateTime ;
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1822> ;
-    skos:note "AI?X definition round 1: Compact sources of X-ray emission, often associated with black holes, neutron stars, or active galactic nuclei. Citation: Giacconi, R., et al., "X-ray Sources from Discrete Objects," Astrophysical Journal, 1962.";
+    skos:definition "Compact sources of X-ray emission, often associated with black holes, neutron stars, or active galactic nuclei.";
     skos:prefLabel "X-ray point sources"@en .
 
 <http://astrothesaurus.org/uat/1271>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1684> ;
     skos:narrower <http://astrothesaurus.org/uat/1272> ;
-    skos:note "AI?X definition round 1: The precision with which a telescope or instrument can be directed at a target in the sky. Citation: Andersen, T., "Precision Pointing Systems for Telescopes," Publications of the Astronomical Society of the Pacific, 1995.";
+    skos:definition "The precision with which a telescope or instrument can be directed at a target in the sky.";
     skos:prefLabel "Pointing accuracy"@en .
 
 <http://astrothesaurus.org/uat/1272>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1271> ;
-    skos:note "Wikipedia definition round 1: Mistake made in typing printed material" ;
+    skos:definition "The difference between a telescope's actual pointing direction from its intended target." ;
     skos:prefLabel "Pointing error"@en .
 
 <http://astrothesaurus.org/uat/1273>
@@ -2987,7 +2988,7 @@
 <http://astrothesaurus.org/uat/1274>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1347> ;
-    skos:note "Wikipedia definition round 1: Beam of ionized matter flowing along the axis of a rotating astronomical object" ;
+    skos:definition "Beams of ionized matter flowing along the axis of a rotating astronomical object" ;
     skos:prefLabel "Polar jets"@en .
 
 <http://astrothesaurus.org/uat/1275>
@@ -3008,14 +3009,15 @@
     a skos:Concept ;
     skos:altLabel "Antarctic barotroclinic tides"@en, "Antarctic barotropic tides"@en, "Antarctic tides"@en, "Arctic barotroclinic tides"@en, "Arctic barotropic tides"@en, "Arctic tides"@en ;
     skos:broader <http://astrothesaurus.org/uat/1152> ;
-    skos:note "Wikipedia definition round 1: Glacier in Antarctica" ;
+    skos:definition "Tides occurring in polar regions caused by gravitational interactions between Earth, the Moon, and the Sun." ;
+    skos:note "Do we really want to restrict this to the Earth?" ;
     skos:prefLabel "Polar tides"@en .
 
 <http://astrothesaurus.org/uat/1277>
     a skos:Concept ;
     skos:altLabel "Polarimetric instrumentation"@en, "Polarimetric instruments"@en ;
     skos:broader <http://astrothesaurus.org/uat/799> ;
-    skos:note "Wikipedia definition round 1: Instrument for measuring optical rotation" ;
+    skos:definition "Instruments that measure the polarization of light, providing insights into magnetic fields and scattering processes in astrophysics." ;
     skos:prefLabel "Polarimeters"@en .
 
 <http://astrothesaurus.org/uat/1278>
@@ -3069,14 +3071,14 @@
     a skos:Concept ;
     skos:altLabel "PAHs"@en, "Polyaromatic hydrocarbons"@en, "Polynuclear aromatic hydrocarbons"@en ;
     skos:broader <http://astrothesaurus.org/uat/2058>, <http://astrothesaurus.org/uat/75>, <http://astrothesaurus.org/uat/836> ;
-    skos:note "Wikipedia definition round 1: Hydrocarbon composed of multiple aromatic rings" ;
+    skos:definition "Hydrocarbon containing multiple aromatic rings." ;
     skos:prefLabel "Polycyclic aromatic hydrocarbons"@en .
 
 <http://astrothesaurus.org/uat/1281>
     a skos:Concept ;
     skos:altLabel "Polytropic solutions"@en, "Polytropic stars"@en ;
     skos:broader <http://astrothesaurus.org/uat/1631> ;
-    skos:note "Wikipedia definition round 1: Geometric object with flat sides" ;
+    skos:definition "Theoretical models of stars or fluid bodies with a specific relationship between pressure and density, often used in stellar structure studies." ;
     skos:prefLabel "Polytropes"@en .
 
 <http://astrothesaurus.org/uat/1282>
@@ -3101,7 +3103,7 @@
     a skos:Concept ;
     skos:altLabel "Population II Cepheid stars"@en ;
     skos:broader <http://astrothesaurus.org/uat/1284> ;
-    skos:note "AI?X definition round 1: Older, metal-poor Cepheid variables found in the Galactic halo or globular clusters, with shorter periods than classical Cepheids. Citation: Wallerstein, G., "Population II Cepheids," Publications of the Astronomical Society of the Pacific, 2002.";
+    skos:definition "Older, metal-poor Cepheid variables found in the Galactic halo or globular clusters, with shorter periods than classical Cepheids.";
     skos:prefLabel "Population II Cepheid variable stars"@en .
 
 <http://astrothesaurus.org/uat/1284>
@@ -3157,7 +3159,7 @@
     a skos:Concept ;
     skos:altLabel "Post-AGB"@en ;
     skos:broader <http://astrothesaurus.org/uat/725> ;
-    skos:note "Wikipedia definition round 1: Type of luminous supergiant star" ;
+    skos:definition "A star in a short-lived evolutionary stage evolving from the asymptotic giant branch towards higher effective temperatures." ;
     skos:prefLabel "Post-asymptotic giant branch"@en ;
     skos:related <http://astrothesaurus.org/uat/2121> .
 
@@ -3165,7 +3167,7 @@
     a skos:Concept ;
     skos:altLabel "pp-wave"@en, "pp-wave spacetimes"@en ;
     skos:broader <http://astrothesaurus.org/uat/678> ;
-    skos:note "AI?X definition round 1: Gravitational waves described by the plane-fronted wave model with parallel rays, often used in general relativity studies. Citation: Bondi, H., et al., "Gravitational Waves in General Relativity," Proceedings of the Royal Society of London, 1959." ;
+    skos:definition "Gravitational waves resulting from exact solutions of the Einstein equations: planed-fronted waves with parallel propagation." ;
     skos:prefLabel "pp waves"@en .
 
 <http://astrothesaurus.org/uat/1289>
@@ -3173,7 +3175,7 @@
     dcterms:modified "2018-09-13T15:12:48.000Z"^^xsd:dateTime ;
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/725> ;
-    skos:note "Wikipedia definition round 1: Star in the stage when it has not yet reached the main sequence" ;
+    skos:definition "Newly-formed stars approaching the main sequence from above" ;
     skos:prefLabel "Pre-main sequence"@en ;
     skos:related <http://astrothesaurus.org/uat/1290>, <http://astrothesaurus.org/uat/718> .
 
@@ -3183,7 +3185,7 @@
     a skos:Concept ;
     skos:altLabel "B subdwarfs"@en, "B-type subdwarf stars"@en, "B-type subdwarfs"@en ;
     skos:broader <http://astrothesaurus.org/uat/128>, <http://astrothesaurus.org/uat/2054> ;
-    skos:note "AI?X definition round 1: Hot, low-luminosity stars of spectral type B with reduced metallicities, often found in older stellar populations. Citation: Heber, U., "Hot Subdwarf Stars," Annual Review of Astronomy and Astrophysics, 2009.";
+    skos:definition "Hot, low-luminosity stars of spectral type B with reduced metallicities, often found in older stellar populations.";
     skos:prefLabel "B subdwarf stars"@en .
 
 <http://astrothesaurus.org/uat/1290>
@@ -3206,7 +3208,7 @@
     a skos:Concept ;
     skos:altLabel "Presolar nebula"@en ;
     skos:broader <http://astrothesaurus.org/uat/1095> ;
-    skos:note "AI?X definition round 1: The cloud of gas and dust that collapsed to form the Sun and the solar system approximately 4.6 billion years ago. Citation: Boss, A. P., "Evolution of the Solar Nebula," Annual Review of Earth and Planetary Sciences, 1998." ;
+    skos:definition "The cloud of gas and dust that collapsed to form the Sun and the solar system approximately 4.6 billion years ago." ;
     skos:prefLabel "Pre-solar nebulae"@en .
 
 <http://astrothesaurus.org/uat/1292>
@@ -3241,7 +3243,7 @@
 <http://astrothesaurus.org/uat/1294>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/994> ;
-    skos:note "AI?X definition round 1: Magnetic fields generated in the early universe, potentially seeding present-day galactic and intergalactic fields. Citation: Grasso, D., & Rubinstein, H. R., "Magnetic Fields in the Early Universe," Physics Reports, 2001.";
+    skos:definition "Magnetic fields generated in the early universe, potentially seeding present-day galactic and intergalactic fields.";
     skos:prefLabel "Primordial magnetic fields"@en .
 
 <http://astrothesaurus.org/uat/1295>
@@ -3280,7 +3282,7 @@
     dcterms:modified "2018-09-13T14:56:53.000Z"^^xsd:dateTime ;
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1567> ;
-    skos:note "Wikipedia definition round 1: Structure made up of a gravitationally-bound aggregation of hundreds of galaxies" ;
+    skos:definition "Regions in the early universe where galaxy clusters are forming, often identified by high-redshift observations." ;
     skos:prefLabel "Protoclusters"@en .
 
 <http://astrothesaurus.org/uat/1298>
@@ -3332,7 +3334,7 @@
     a skos:Concept ;
     skos:altLabel "B supergiants"@en, "B-type supergiant stars"@en, "B-type supergiants"@en ;
     skos:broader <http://astrothesaurus.org/uat/128>, <http://astrothesaurus.org/uat/431> ;
-    skos:note "AI?X definition round 1: Massive, highly luminous stars of spectral type B in an advanced evolutionary stage, often showing strong stellar winds. Citation: Levesque, E. M., "Astrophysics of Red Supergiants," Annual Review of Astronomy and Astrophysics, 2017.";
+    skos:definition "Massive, highly luminous stars of spectral type B in an advanced evolutionary stage, often showing strong stellar winds.";
     skos:prefLabel "B supergiant stars"@en ;
     skos:related <http://astrothesaurus.org/uat/2122> .
 
@@ -3387,7 +3389,7 @@
 <http://astrothesaurus.org/uat/1303>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/433> ;
-    skos:note "Wikipedia definition round 1: Private liberal arts college in the United States" ;
+    skos:definition "Ancient tools used for astronomical measurements, named after the Greek astronomer Ptolemy" ;
     skos:prefLabel "Ptolemy stones"@en .
 
 <http://astrothesaurus.org/uat/1304>
