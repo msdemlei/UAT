@@ -2198,7 +2198,7 @@
     dcterms:creator <http://editor.vocabs.ands.org.au/user/AAS_Frey.Katie> ;
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/534> ;
-    skos:note "AI?X definition round 1: A magnetic field oriented parallel to a given reference direction, often considered in studies of astrophysical plasmas. Citation: Parker, E. N., "Cosmic Magnetic Fields," Clarendon Press, 1979.";
+    skos:definition "Roughly simulataneous observations of the same region of space using two or more instruments." ;
     skos:prefLabel "Parallel field"@en .
 
 <http://astrothesaurus.org/uat/1199>
@@ -2227,7 +2227,7 @@
 <http://astrothesaurus.org/uat/120>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1686> ;
-    skos:note "Wikipedia definition round 1: Genus of squids" ;
+    skos:definition "A type of tektite found in Australia." ;
     skos:prefLabel "Australites"@en .
 
 <http://astrothesaurus.org/uat/1200>
@@ -2250,7 +2250,7 @@
     a skos:Concept ;
     skos:altLabel "Peculiar giant stars"@en, "Peculiar giants"@en ;
     skos:broader <http://astrothesaurus.org/uat/226>, <http://astrothesaurus.org/uat/655> ;
-    skos:note "AI?X definition round 1: Giant stars with unusual chemical abundances, often attributed to surface mixing or binary interaction. Citation: Preston, G. W., "Chemically Peculiar Stars," Annual Review of Astronomy and Astrophysics, 1974.";
+    skos:definition "Giant stars with unusual chemical abundances, often attributed to surface mixing or binary interaction.";
     skos:prefLabel "Chemically peculiar giant stars"@en .
 
 <http://astrothesaurus.org/uat/1202>
@@ -2258,13 +2258,13 @@
     dcterms:modified "2018-08-30T20:06:20.000Z"^^xsd:dateTime ;
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1761>, <http://astrothesaurus.org/uat/226> ;
-    skos:note "AI?X definition round 1: Variable stars exhibiting unusual or unexplained changes in brightness, often linked to unique astrophysical processes. Citation: Percy, J. R., "Understanding Variable Stars," Cambridge University Press, 2007.";
+    skos:definition "Variable stars exhibiting unusual or unexplained changes in brightness.";
     skos:prefLabel "Peculiar variable stars"@en .
 
 <http://astrothesaurus.org/uat/1203>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/645> ;
-    skos:note "AI?X definition round 1: The theoretical maximum energy extractable from a rotating black hole via the Penrose process. Citation: Penrose, R., "Gravitational Collapse: The Role of General Relativity," Rivista del Nuovo Cimento, 1969.";
+    skos:definition "The theoretical maximum energy extractable from a rotating black hole via the Penrose process.";
     skos:prefLabel "Penrose limit"@en .
 
 <http://astrothesaurus.org/uat/1204>
@@ -2352,7 +2352,7 @@
     skos:altLabel "Robotic telescope"@en ;
     skos:broader <http://astrothesaurus.org/uat/1689> ;
     skos:narrower <http://astrothesaurus.org/uat/122> ;
-    skos:note "AI?X definition round 1: Telescopes equipped with systems for autonomous operation, including observation scheduling and data collection. Citation: Genet, R. M., "Automated Telescopes for Photometry and Imaging," Willmann-Bell, 1987." ;
+    skos:definition "Telescopes equipped with systems for autonomous operation, including observation scheduling and data collection." ;
     skos:prefLabel "Automated telescopes"@en .
 
 <http://astrothesaurus.org/uat/1210>
@@ -2372,13 +2372,13 @@
 <http://astrothesaurus.org/uat/1211>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/59> ;
-    skos:note "AI?X definition round 1: The process of calculating the periodicity of variable phenomena, such as pulsating stars or orbital motions. Citation: Scargle, J. D., "Studies in Astronomical Time Series Analysis," Astrophysical Journal, 1982.";
+    skos:definition "The process of calculating the periodicities of variable phenomena, such as pulsating stars or orbital motions.";
     skos:prefLabel "Period determination"@en .
 
 <http://astrothesaurus.org/uat/1212>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1179> ;
-    skos:note "Wikipedia definition round 1: Point which a function/system returns to after some time or iterations" ;
+    skos:definition "An orbit in which a celestial body repeats its path around a central mass after a fixed interval of time.";
     skos:prefLabel "Periodic orbit"@en .
 
 <http://astrothesaurus.org/uat/1213>
@@ -2387,7 +2387,7 @@
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1761> ;
     skos:narrower <http://astrothesaurus.org/uat/1079>, <http://astrothesaurus.org/uat/1453>, <http://astrothesaurus.org/uat/935> ;
-    skos:note "AI?X definition round 1: Stars whose brightness changes periodically due to intrinsic pulsations or extrinsic effects like eclipses. Citation: Percy, J. R., "Variable Stars and Stellar Evolution," Cambridge University Press, 1985.";
+    skos:definition "Variable stars exhibiting regular changes in brightness." ;
     skos:prefLabel "Periodic variable stars"@en .
 
 <http://astrothesaurus.org/uat/1214>
@@ -2408,7 +2408,7 @@
     a skos:Concept ;
     skos:altLabel "Perturbation theory"@en ;
     skos:broader <http://astrothesaurus.org/uat/211>, <http://astrothesaurus.org/uat/38> ;
-    skos:note "Wikipedia definition round 1: Methods of mathematical approximation" ;
+    skos:definition "Analytical techniques for approximating solutions to complex systems by investigating the behaviour for small deviation from equilibrium-like states." ;
     skos:prefLabel "Perturbation methods"@en ;
     skos:related <http://astrothesaurus.org/uat/341> .
 
@@ -2416,7 +2416,7 @@
     a skos:Concept ;
     skos:altLabel "GW Virginis stars"@en, "Pg 1159-35 stars"@en ;
     skos:broader <http://astrothesaurus.org/uat/1079>, <http://astrothesaurus.org/uat/397> ;
-    skos:note "Wikipedia definition round 1: Transitional stellar stage before becoming a white dwarf" ;
+    skos:definition "Hot, hydrogen-deficient stars in a post-Asymptotic Giant Branch phase, showing strong carbon and oxygen lines." ;
     skos:prefLabel "PG 1159 stars"@en .
 
 <http://astrothesaurus.org/uat/1217>
@@ -2436,38 +2436,38 @@
 <http://astrothesaurus.org/uat/1218>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/80> ;
-    skos:note "Wikipedia definition round 1: Electrical circuit detecting phase difference" ;
+    skos:definition "A deviation in the expected phase of a wavefront, often caused by imperfections in an optical system." ;
     skos:prefLabel "Phase defect"@en .
 
 <http://astrothesaurus.org/uat/1219>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/80> ;
-    skos:note "Wikipedia definition round 1: Sweeping audio effect" ;
+    skos:note "MD: I suspect the term would originally have referred to some esoteric high energy-physics concept.  It's ended up in astrometry, though, so it would probably be something like 'Effects of the phases of illuminated bodies on observables like positions, spectra, and the like.'  Do we want this?" ;
     skos:prefLabel "Phase effect"@en .
 
 <http://astrothesaurus.org/uat/122>
     a skos:Concept ;
     skos:altLabel "Automated patrol telescopes"@en ;
     skos:broader <http://astrothesaurus.org/uat/121> ;
-    skos:note "AI?X definition round 1: Telescopes designed for continuous, automated monitoring of the sky to detect transient phenomena. Citation: Hudec, R., "Advances in Patrol Telescopes," Experimental Astronomy, 1996.";
+    skos:definition "Telescopes designed for continuous, automated monitoring of the sky to detect transient phenomena.";
     skos:prefLabel "Automatic patrol telescopes"@en .
 
 <http://astrothesaurus.org/uat/1220>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/80> ;
-    skos:note "AI?X definition round 1: A discrepancy between the measured and expected phase of a wave, often occurring in interferometry or signal processing. Citation: Hariharan, P., "Basics of Interferometry," Elsevier, 2007.";
+    skos:definition "A discrepancy between the measured and expected phase of a wave, for instance due to atmospheric influences.";
     skos:prefLabel "Phase error"@en .
 
 <http://astrothesaurus.org/uat/1221>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/808> ;
-    skos:note "Wikipedia definition round 1: Measurement method using interference of waves" ;
+    skos:definition "Improving the SNR for the cross-correlation of the signals in interferometry by periodically flipping the phase of one of the signals" ;
     skos:prefLabel "Phase switching"@en .
 
 <http://astrothesaurus.org/uat/1222>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/804> ;
-    skos:note "AI?X definition round 1: The study of foundational and ethical questions related to the practice, methods, and implications of astronomy. Citation: Hoskin, M., "The History of Astronomy: A Very Short Introduction," Oxford University Press, 2003." ;
+    skos:definition "The study of foundational and ethical questions related to the practice, methods, and implications of astronomy." ;
     skos:prefLabel "Philosophy of astronomy"@en .
 
 <http://astrothesaurus.org/uat/1223>
@@ -2476,7 +2476,7 @@
     a skos:Concept ;
     skos:altLabel "PDRs"@en ;
     skos:broader <http://astrothesaurus.org/uat/1072> ;
-    skos:note "Wikipedia definition round 1: Gaseous parts of the interstellar medium which are heated by UV photons" ;
+    skos:definition "Astrophysical regions where UV photons interact with gas and dust, driving photochemical reactions and heating." ;
     skos:prefLabel "Photodissociation regions"@en ;
     skos:related <http://astrothesaurus.org/uat/2266> .
 
@@ -2512,14 +2512,14 @@
     a skos:Concept ;
     skos:altLabel "Stereophotogrammetry"@en ;
     skos:broader <http://astrothesaurus.org/uat/1227>, <http://astrothesaurus.org/uat/1229> ;
-    skos:note "Wikipedia definition round 1: Taking measurements using photography" ;
+    skos:definition "The measurement and analysis of objects using photographic images, applied in planetary science for terrain mapping." ;
     skos:prefLabel "Photogrammetry"@en .
 
 <http://astrothesaurus.org/uat/1227>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/80> ;
     skos:narrower <http://astrothesaurus.org/uat/1226> ;
-    skos:note "AI?X definition round 1: The use of photographic plates to measure the positions of celestial objects over time. Citation: Eichhorn, H. K., "Astrometry of Stellar Positions," Pergamon Press, 1974.";
+    skos:definition "The use of photographic plates to measure the positions and motion of celestial objects.";
     skos:prefLabel "Photographic astrometry"@en .
 
 <http://astrothesaurus.org/uat/1228>
@@ -2534,7 +2534,7 @@
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1234> ;
     skos:narrower <http://astrothesaurus.org/uat/1226> ;
-    skos:note "AI?X definition round 1: The measurement of the brightness of celestial objects using calibrated photographic plates. Citation: Russell, H. N., "Photographic Magnitudes of Stars," Astrophysical Journal, 1912.";
+    skos:definition "The measurement of the brightness of celestial objects using recorded images such as photographic plates or CCD images.";
     skos:prefLabel "Photographic photometry"@en .
 
 <http://astrothesaurus.org/uat/123>
@@ -2554,7 +2554,7 @@
 <http://astrothesaurus.org/uat/1230>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/433> ;
-    skos:note "Wikipedia definition round 1: Telescope used to observe the Sun" ;
+    skos:definition "Telescopes designed to observe the Sun." ;
     skos:prefLabel "Photoheliographs"@en .
 
 <http://astrothesaurus.org/uat/1231>
@@ -2574,7 +2574,7 @@
 <http://astrothesaurus.org/uat/1232>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1234>, <http://astrothesaurus.org/uat/1564> ;
-    skos:note "Wikipedia definition round 1: Stars that have had their light output measured carefully" ;
+    skos:definition "Stars used to define photometric standards" ;
     skos:prefLabel "Photometric standard stars"@en .
 
 <http://astrothesaurus.org/uat/1233>
@@ -2584,7 +2584,7 @@
     skos:altLabel "Magnitude systems"@en ;
     skos:broader <http://astrothesaurus.org/uat/1234> ;
     skos:narrower <http://astrothesaurus.org/uat/1021>, <http://astrothesaurus.org/uat/1077>, <http://astrothesaurus.org/uat/1088>, <http://astrothesaurus.org/uat/184>, <http://astrothesaurus.org/uat/269> ;
-    skos:note "Wikipedia definition round 1: Set of well-defined passbands (or filters), with a known sensitivity to incident radiation" ;
+    skos:definition "Sets of well-defined passbands, with a known sensitivity to incident radiation, usually defined via standard stars" ;
     skos:prefLabel "Photometric systems"@en ;
     skos:related <http://astrothesaurus.org/uat/999> .
 
@@ -2600,7 +2600,8 @@
 <http://astrothesaurus.org/uat/1235>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/152>, <http://astrothesaurus.org/uat/435> ;
-    skos:note "Wikipedia definition round 1: Type of event in the early universe" ;
+    skos:definition "The point in time at which photons in the early universe ceased interacting with matter, leading to the formation of the cosmic microwave background." ;
+    skos:note "We should probably say how this relates to 1365" ;
     skos:prefLabel "Photon decoupling"@en .
 
 <http://astrothesaurus.org/uat/1236>
@@ -2624,7 +2625,7 @@
     skos:altLabel "Photospheres"@en ;
     skos:broader <http://astrothesaurus.org/uat/1584> ;
     skos:narrower <http://astrothesaurus.org/uat/1601>, <http://astrothesaurus.org/uat/659> ;
-    skos:note "AI?X definition round 1: The visible surface of a star from which most of its light is emitted, representing the outermost layer of the stellar atmosphere. Citation: Mihalas, D., "Stellar Atmospheres," W. H. Freeman, 1978.";
+    skos:definition "The visible surface of a star from which most of its light is emitted, representing the outermost layer of the stellar atmosphere.";
     skos:prefLabel "Stellar photospheres"@en ;
     skos:related <http://astrothesaurus.org/uat/1518> .
 
@@ -2646,7 +2647,7 @@
     a skos:Concept ;
     skos:altLabel "Pick-up ions"@en ;
     skos:broader <http://astrothesaurus.org/uat/827> ;
-    skos:note "AI?X definition round 1: Charged particles generated when neutral atoms are ionized and incorporated into a flowing plasma, such as the solar wind. Citation: Gloeckler, G., et al., "Pickup Ions in the Solar Wind," Space Science Reviews, 1995." ;
+    skos:definition "Charged particles generated when neutral atoms are ionized and incorporated into a flowing plasma, such as the solar wind." ;
     skos:prefLabel "Pickup ions"@en .
 
 <http://astrothesaurus.org/uat/124>
@@ -2682,7 +2683,7 @@
 <http://astrothesaurus.org/uat/1241>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1257> ;
-    skos:note "Wikipedia definition round 1: Astronomical theory about the Solar System" ;
+    skos:definition "Processes through which planets form within their parent star's protoplanetery disks (or possibly elsewhere)." ;
     skos:prefLabel "Planet formation"@en ;
     skos:related <http://astrothesaurus.org/uat/1300> .
 
@@ -2690,13 +2691,13 @@
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/486> ;
     skos:narrower <http://astrothesaurus.org/uat/696> ;
-    skos:note "Wikipedia definition round 1: Stars that host planetary systems" ;
+    skos:definition "Stars that have planets orbiting them." ;
     skos:prefLabel "Planet hosting stars"@en .
 
 <http://astrothesaurus.org/uat/1243>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1255> ;
-    skos:note "Wikipedia definition round 1: Topics referred to by the same term" ;
+    skos:definition "The arrangement of planets along the same approximate straight line as seen from a particular vantage point." ;
     skos:prefLabel "Planetary alignment"@en .
 
 <http://astrothesaurus.org/uat/1244>
@@ -2705,14 +2706,14 @@
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1255> ;
     skos:narrower <http://astrothesaurus.org/uat/118>, <http://astrothesaurus.org/uat/1245>, <http://astrothesaurus.org/uat/1429>, <http://astrothesaurus.org/uat/1748>, <http://astrothesaurus.org/uat/1791>, <http://astrothesaurus.org/uat/2119>, <http://astrothesaurus.org/uat/2120>, <http://astrothesaurus.org/uat/2180>, <http://astrothesaurus.org/uat/2185>, <http://astrothesaurus.org/uat/2193>, <http://astrothesaurus.org/uat/2300>, <http://astrothesaurus.org/uat/2301>, <http://astrothesaurus.org/uat/2309>, <http://astrothesaurus.org/uat/437> ;
-    skos:note "Wikipedia definition round 1: Layer of gases surrounding an astronomical body held by gravity" ;
+    skos:definition "Layers of gases surrounding an astronomical body, held by gravity" ;
     skos:prefLabel "Planetary atmospheres"@en ;
     skos:related <http://astrothesaurus.org/uat/103>, <http://astrothesaurus.org/uat/116>, <http://astrothesaurus.org/uat/2184>, <http://astrothesaurus.org/uat/487> .
 
 <http://astrothesaurus.org/uat/1245>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1244> ;
-    skos:note "Wikipedia definition round 1: Lowest part of the atmosphere directly influenced by contact with the planetary surface" ;
+    skos:definition "The lowest parts of planetary atmospheres directly influenced by contact with the surfaces" ;
     skos:prefLabel "Planetary boundary layers"@en .
 
 <http://astrothesaurus.org/uat/1246>
@@ -2720,19 +2721,19 @@
     dcterms:modified "2018-09-20T16:50:30.000Z"^^xsd:dateTime ;
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/2086>, <http://astrothesaurus.org/uat/827> ;
-    skos:note "AI?X definition round 1: Shock waves formed when the solar wind interacts with a planet’s magnetosphere or atmosphere. Citation: Russell, C. T., "Planetary Bow Shocks," Space Science Reviews, 1985.";
+    skos:definition "Shock waves formed when the solar or stellar wind interacts with a planet’s magnetosphere or atmosphere.";
     skos:prefLabel "Planetary bow shocks"@en .
 
 <http://astrothesaurus.org/uat/1247>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1256> ;
-    skos:note "Wikipedia definition round 1: Innermost layer(s) of a planet" ;
+    skos:note "The innermost layer(s) of a planet's interior." ;
     skos:prefLabel "Planetary cores"@en .
 
 <http://astrothesaurus.org/uat/1248>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1256> ;
-    skos:note "AI?X definition round 1: The internal structure and composition of planets, studied through seismic, gravitational, and magnetic observations. Citation: Schubert, G., et al., "Interior Structure of the Planets," Science, 1986.";
+    skos:definition "The internal structure and composition of planets, studied through seismic, gravitational, and magnetic observations.";
     skos:prefLabel "Planetary interior"@en .
 
 <http://astrothesaurus.org/uat/1249>
@@ -2741,7 +2742,7 @@
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/461> ;
     skos:narrower <http://astrothesaurus.org/uat/1250> ;
-    skos:note "Wikipedia definition round 1: Type of emission nebula created by dying red giants" ;
+    skos:definition "Shells of ionized gas expelled by low- to intermediate-mass stars while they turn into white dwarf stars." ;
     skos:prefLabel "Planetary nebulae"@en .
 
 <http://astrothesaurus.org/uat/125>
@@ -2752,20 +2753,20 @@
     a skos:Concept ;
     skos:altLabel "B subgiants"@en, "B-type subgiant stars"@en, "B-type subgiants"@en ;
     skos:broader <http://astrothesaurus.org/uat/128>, <http://astrothesaurus.org/uat/1646> ;
-    skos:note "AI?X definition round 1: Intermediate-luminosity stars of spectral type B transitioning from the main sequence to the giant branch. Citation: Slettebak, A., "Stellar Evolution," Astrophysical Journal, 1954.";
+    skos:note "Stars of spectral type B transitioning from the main sequence to the giant branch.";
     skos:prefLabel "B subgiant stars"@en .
 
 <http://astrothesaurus.org/uat/1250>
     a skos:Concept ;
     skos:altLabel "Nuclei of planetary nebulae"@en, "Nucleus of planetary nebula"@en, "Planetary nebula nuclei"@en ;
     skos:broader <http://astrothesaurus.org/uat/1249> ;
-    skos:note "AI?X definition round 1: The hot, compact remnants of stars at the centers of planetary nebulae, often transitioning into white dwarfs. Citation: Iben, I., & Renzini, A., "Asymptotic Giant Branch Evolution and Planetary Nebula Formation," Annual Review of Astronomy and Astrophysics, 1983.";
+    skos:note "The hot, compact remnants of stars at the centers of planetary nebulae, transitioning into white dwarf stars.";
     skos:prefLabel "Planetary nebulae nuclei"@en .
 
 <http://astrothesaurus.org/uat/1251>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1256> ;
-    skos:note "AI?X definition round 1: The areas near the poles of planets, often exhibiting unique features such as polar ice caps, cyclones, or auroras. Citation: Bjoraker, G. L., et al., "Polar Regions of the Outer Planets," Journal of Geophysical Research, 1986.";
+    skos:definition "The areas near the poles of planets, often exhibiting unique features such as polar ice caps, cyclones, or auroras.";
     skos:prefLabel "Planetary polar regions"@en .
 
 <http://astrothesaurus.org/uat/1252>
