@@ -5944,7 +5944,7 @@
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1476> ;
     skos:narrower <http://astrothesaurus.org/uat/1482>, <http://astrothesaurus.org/uat/1874>, <http://astrothesaurus.org/uat/1996>, <http://astrothesaurus.org/uat/1998>, <http://astrothesaurus.org/uat/1999>, <http://astrothesaurus.org/uat/708> ;
-    skos:note "AI?X definition round 1: The region of the Sun below the photosphere, including the core, radiative zone, and convective zone. Citation: Stix, M., "The Sun: An Introduction," Springer, 2002.";
+    skos:definition "The region of the Sun below the photosphere, including the core, radiative zone, and convective zone.";
     skos:prefLabel "Solar interior"@en ;
     skos:related <http://astrothesaurus.org/uat/1606>, <http://astrothesaurus.org/uat/709> .
 
@@ -5954,13 +5954,13 @@
     a skos:Concept ;
     skos:altLabel "SSI"@en, "Solar irradiance"@en ;
     skos:broader <http://astrothesaurus.org/uat/1476> ;
-    skos:note "Wikipedia definition round 1: Planned Sun-observing satellite" ;
+    skos:definition "The flux received from the Sun per unit area per unit wavelength (or frequency)." ;
     skos:prefLabel "Solar spectral irradiance"@en .
 
 <http://astrothesaurus.org/uat/1502>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1525> ;
-    skos:note "AI?X definition round 1: Large spicule-like structures in the solar chromosphere and transition region, often associated with magnetic activity. Citation: Bohlin, J. D., et al., "Macrospicules in the Solar Chromosphere," Astrophysical Journal, 1975.";
+    skos:definition "Large spicule-like structures in the solar chromosphere and transition region, often associated with magnetic activity.";
     skos:prefLabel "Solar macrospicules"@en .
 
 <http://astrothesaurus.org/uat/1503>
@@ -5982,7 +5982,7 @@
 <http://astrothesaurus.org/uat/1504>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1503> ;
-    skos:note "AI?X definition round 1: The release of magnetic energy in the Sun's atmosphere through the rearrangement of magnetic field lines. Citation: Priest, E., & Forbes, T., "Magnetic Reconnection," Cambridge University Press, 2000.";
+    skos:definition "A rearrangement of field lines in the Sun's magnetic field accompanied with the release of energy" ;
     skos:prefLabel "Solar magnetic reconnection"@en .
 
 <http://astrothesaurus.org/uat/1505>
@@ -6017,10 +6017,9 @@
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1476> ;
     skos:narrower <http://astrothesaurus.org/uat/1478>, <http://astrothesaurus.org/uat/46>, <http://astrothesaurus.org/uat/54> ;
-    skos:note "AI?X definition round 1: The Sun's movement relative to nearby stars or the Local Standard of Rest, measured in Galactic coordinates. Citation: Dehnen, W., & Binney, J., "Local Stellar Kinematics," Monthly Notices of the Royal Astronomical Society, 1998.";
+    skos:definition "The Sun's movement relative to nearby stars or the Local Standard of Rest" ;
     skos:prefLabel "Solar motion"@en ;
     skos:related <http://astrothesaurus.org/uat/1615> ;
-    skos:scopeNote "With respect to nearby stars"@en .
 
 <http://astrothesaurus.org/uat/1508>
     dcterms:contributor <http://editor.vocabs.ands.org.au/user/AAS_Frey.Katie_Admin> ;
@@ -6057,7 +6056,7 @@
     a skos:Concept ;
     skos:altLabel "Nucleogenesis"@en ;
     skos:broader <http://astrothesaurus.org/uat/1131>, <http://astrothesaurus.org/uat/152> ;
-    skos:note "Wikipedia definition round 1: Process during the early universe" ;
+    skos:definition "The process that produced light elements, such as hydrogen, helium, and lithium, in the first few minutes after the Big Bang.";
     skos:prefLabel "Big Bang nucleosynthesis"@en .
 
 <http://astrothesaurus.org/uat/1510>
@@ -6092,19 +6091,19 @@
 <http://astrothesaurus.org/uat/1512>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1517> ;
-    skos:note "AI?X definition round 1: Neutrons produced in solar flares via nuclear reactions, detectable before they decay into protons and electrons. Citation: Ryan, J. M., et al., "Solar Neutron Emission," Space Science Reviews, 2000.";
+    skos:definition "Neutrons emitted by the sun, typically produced in solar flares via nuclear reactions, detectable before they decay into protons and electrons." ;
     skos:prefLabel "Solar neutrons"@en .
 
 <http://astrothesaurus.org/uat/1513>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1147> ;
-    skos:note "AI?X definition round 1: Facilities dedicated to the continuous observation and study of the Sun across multiple wavelengths. Citation: Beckers, J. M., "Solar Physics from Ground-Based Observatories," Annual Review of Astronomy and Astrophysics, 1976.";
+    skos:definition "Facilities dedicated to the continuous observation and study of the Sun across multiple wavelengths." ;
     skos:prefLabel "Solar observatories"@en .
 
 <http://astrothesaurus.org/uat/1514>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1174>, <http://astrothesaurus.org/uat/1531> ;
-    skos:note "AI?X definition round 1: Instruments designed for observing the Sun in the optical spectrum, often equipped with filters to study specific solar features. Citation: Tritschler, A., et al., "Advances in Solar Optical Instrumentation," Astronomy & Astrophysics Review, 2016.";
+    skos:definition "Instruments designed for observing the Sun in the optical spectrum." ;
     skos:prefLabel "Solar optical telescopes"@en .
 
 <http://astrothesaurus.org/uat/1515>
@@ -6113,7 +6112,7 @@
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1476> ;
     skos:narrower <http://astrothesaurus.org/uat/708> ;
-    skos:note "Wikipedia definition round 1: Study of the structure and dynamics of the Sun through its oscillation" ;
+    skos:definition "Periodic motions within the Sun caused by acoustic waves, providing insights into its internal structure." ;
     skos:prefLabel "Solar oscillations"@en ;
     skos:related <http://astrothesaurus.org/uat/1617> .
 
@@ -6137,7 +6136,7 @@
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1476> ;
     skos:narrower <http://astrothesaurus.org/uat/1491>, <http://astrothesaurus.org/uat/1512>, <http://astrothesaurus.org/uat/1997> ;
-    skos:note "AI?X definition round 1: The release of energetic particles, such as protons and electrons, during solar flares and coronal mass ejections. Citation: Reames, D. V., "Particle Acceleration at the Sun and in the Heliosphere," Space Science Reviews, 1999.";
+    skos:definition "The release of energetic particles, such as protons and electrons, for instance during solar flares and coronal mass ejections." ;
     skos:prefLabel "Solar particle emission"@en ;
     skos:related <http://astrothesaurus.org/uat/1511> .
 
@@ -6162,7 +6161,7 @@
     skos:altLabel "Prominence"@en, "Solar eruptions"@en, "Solar prominence"@en, "Solar prominence eruptions"@en ;
     skos:broader <http://astrothesaurus.org/uat/1475> ;
     skos:narrower <http://astrothesaurus.org/uat/1321> ;
-    skos:note "Wikipedia definition round 1: Structure extending off of the Suns surface" ;
+    skos:definition "Dense, cooler plasma structures suspended in the hot solar corona, often visible as loops or filaments." ;
     skos:prefLabel "Solar prominences"@en ;
     skos:related <http://astrothesaurus.org/uat/1495> ;
     skos:scopeNote "A solar filament, but seen above the limb."@en .
@@ -6212,13 +6211,13 @@
 <http://astrothesaurus.org/uat/1522>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1490> ;
-    skos:note "Wikipedia definition round 1: Radio waves produced by the Sun" ;
+    skos:definition "Radio waves produced by the Sun." ;
     skos:prefLabel "Solar radio emission"@en .
 
 <http://astrothesaurus.org/uat/1523>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1360>, <http://astrothesaurus.org/uat/1531> ;
-    skos:note "AI?X definition round 1: Instruments used to observe solar radio emissions, often designed for monitoring solar activity and space weather. Citation: Kundu, M. R., "Solar Radio Astronomy," Interscience Publishers, 1965.";
+    skos:definition "Instruments used to observe solar radio emissions, often designed for monitoring solar activity and space weather." ;
     skos:prefLabel "Solar radio telescopes"@en .
 
 <http://astrothesaurus.org/uat/1524>
@@ -6243,7 +6242,7 @@
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1479> ;
     skos:narrower <http://astrothesaurus.org/uat/1074>, <http://astrothesaurus.org/uat/1502>, <http://astrothesaurus.org/uat/532> ;
-    skos:note "Wikipedia definition round 1: Jet of plasma in the Suns chromosphere" ;
+    skos:definition "Dynamic, jet-like structures in the chromosphere, rising and falling on short timescales." ;
     skos:prefLabel "Solar spicules"@en .
 
 <http://astrothesaurus.org/uat/1526>
@@ -6252,7 +6251,7 @@
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1475> ;
     skos:narrower <http://astrothesaurus.org/uat/1491>, <http://astrothesaurus.org/uat/1496>, <http://astrothesaurus.org/uat/310> ;
-    skos:note "Wikipedia definition round 1: Disturbance on the Sun" ;
+    skos:definition "A disturbance in the solar atmosphere that can include flares, coronal mass ejections, and associated energetic particles." ;
     skos:prefLabel "Solar storm"@en .
 
 <http://astrothesaurus.org/uat/1527>
@@ -6260,7 +6259,8 @@
     dcterms:modified "2018-08-27T21:52:34.000Z"^^xsd:dateTime ;
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1476> ;
-    skos:note "AI?X definition round 1: The visible outer layer of the Sun, known as the photosphere, where most of the Sun's light is emitted. Citation: Stix, M., "The Sun: An Introduction," Springer, 2002.";
+    skos:definition "The visible outer layer of the Sun, known as the photosphere, where most of the Sun's light is emitted." ;
+    skos:note "Can we say where the difference to 1518 is? Or perhaps to 1477?" ;
     skos:prefLabel "Solar surface"@en ;
     skos:related <http://astrothesaurus.org/uat/1632> .
 
@@ -6286,7 +6286,7 @@
     a skos:Concept ;
     skos:altLabel "Planetary astronomy"@en ;
     skos:narrower <http://astrothesaurus.org/uat/1255>, <http://astrothesaurus.org/uat/1528>, <http://astrothesaurus.org/uat/436>, <http://astrothesaurus.org/uat/972> ;
-    skos:note "AI?X definition round 1: The study of the Sun, planets, moons, asteroids, comets, and other objects within the solar system. Citation: Beatty, J. K., et al., "The New Solar System," Cambridge University Press, 1999.";
+    skos:definition "The study of the Sun, planets, moons, asteroids, comets, and other objects within the solar system.";
     skos:prefLabel "Solar system astronomy"@en ;
     skos:scopeNote "Referring specifically the study of our solar system, not exoplanets."@en ;
     skos:topConceptOf <http://astrothesaurus.org/uat/1> .
@@ -6294,7 +6294,7 @@
 <http://astrothesaurus.org/uat/153>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1306>, <http://astrothesaurus.org/uat/283> ;
-    skos:note "Wikipedia definition round 1: Two pulsars orbiting each other" ;
+    skos:definition "Two pulsars orbiting each other." ;
     skos:prefLabel "Binary pulsars"@en .
 
 <http://astrothesaurus.org/uat/1530>
@@ -6302,7 +6302,7 @@
     dcterms:modified "2022-06-15T19:31:53.758Z"^^xsd:dateTime ;
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1257> ;
-    skos:note "AI?X definition round 1: The formation of the solar system from a rotating molecular cloud of gas and dust approximately 4.6 billion years ago. Citation: Boss, A. P., "Evolution of the Solar Nebula," Annual Review of Earth and Planetary Sciences, 1998." ;
+    skos:definition "The formation of the solar system from a rotating molecular cloud of gas and dust approximately 4.6 billion years ago." ;
     skos:prefLabel "Solar system formation"@en ;
     skos:related <http://astrothesaurus.org/uat/1508>, <http://astrothesaurus.org/uat/1528> .
 
@@ -6327,15 +6327,14 @@
     dcterms:modified "2018-08-27T21:14:20.000Z"^^xsd:dateTime ;
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1479>, <http://astrothesaurus.org/uat/1483> ;
-    skos:note "Wikipedia definition round 1: Layer of the Suns atmosphere" ;
-    skos:prefLabel "Solar transition region"@en ;
-    skos:scopeNote "The region of the Sun's atmosphere between the chromosphere and corona."@en .
+    skos:definition "The region of the Sun's atmosphere between the chromosphere and corona."@en ;
+    skos:prefLabel "Solar transition region"@en .
 
 <http://astrothesaurus.org/uat/1533>
     a skos:Concept ;
     skos:altLabel "Solar UV emission"@en ;
     skos:broader <http://astrothesaurus.org/uat/1490> ;
-    skos:note "AI?X definition round 1: Ultraviolet radiation from the Sun, primarily originating from the chromosphere and corona. Citation: Vernazza, J. E., et al., "Structure of the Solar Chromosphere," Astrophysical Journal Supplement, 1981.";
+    skos:definition "Ultraviolet radiation from the Sun, primarily originating from the chromosphere and corona." ;
     skos:prefLabel "Solar ultraviolet emission"@en .
 
 <http://astrothesaurus.org/uat/1534>
@@ -6357,7 +6356,7 @@
 <http://astrothesaurus.org/uat/1535>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/827> ;
-    skos:note "AI?X definition round 1: The boundary where the solar wind slows to subsonic speeds as it interacts with the interstellar medium. Citation: Zank, G. P., "Interaction of the Solar Wind with the Local Interstellar Medium," Annual Review of Astronomy and Astrophysics, 1999.";
+    skos:definition "The boundary where the solar wind slows to subsonic speeds as it interacts with the interstellar medium." ;
     skos:prefLabel "Solar wind termination"@en .
 
 <http://astrothesaurus.org/uat/1536>
@@ -6365,7 +6364,7 @@
     dcterms:modified "2019-12-13T21:25:49.326Z"^^xsd:dateTime ;
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1490> ;
-    skos:note "AI?X definition round 1: X-rays emitted from the Sun, primarily during flares and active regions of the corona. Citation: Aschwanden, M. J., "Physics of the Solar Corona," Springer, 2005.";
+    skos:definition "X-rays emitted from the Sun, primarily during flares and active regions of the corona." ;
     skos:prefLabel "Solar x-ray emission"@en .
 
 <http://astrothesaurus.org/uat/1537>
@@ -6402,7 +6401,7 @@
     a skos:Concept ;
     skos:altLabel "S e p"@en, "S. e. p."@en ;
     skos:broader <http://astrothesaurus.org/uat/448> ;
-    skos:note "Wikipedia definition round 1: Celestial coordinate system" ;
+    skos:definition "The point in the sky where the axis of the Earth's motion around the sun meets the celestial sphere in the southern hemisphere." ;
     skos:prefLabel "South ecliptic pole"@en .
 
 <http://astrothesaurus.org/uat/154>
@@ -6427,13 +6426,13 @@
     a skos:Concept ;
     skos:altLabel "S g p"@en, "S. g. p."@en ;
     skos:broader <http://astrothesaurus.org/uat/570> ;
-    skos:note "Wikipedia definition round 1: Celestial coordinate system in spherical coordinates, with the Sun as its center" ;
+    skos:definition "The point in the sky where the normal vector of the Galactic plane meets the celestial sphere in the southern hemisphere." ;
     skos:prefLabel "South galactic pole"@en .
 
 <http://astrothesaurus.org/uat/1541>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/80> ;
-    skos:note "AI?X definition round 1: The precise measurement of celestial positions, motions, and parallaxes using space-based observatories. Citation: Perryman, M. A. C., "Astrometry in Space," Annual Review of Astronomy and Astrophysics, 2000.";
+    skos:definition "The precise measurement of celestial positions, motions, and parallaxes using space-based observatories." ;
     skos:prefLabel "Space astrometry"@en .
 
 <http://astrothesaurus.org/uat/1542>
@@ -6458,7 +6457,7 @@
     skos:altLabel "Orbiting observatory"@en ;
     skos:broader <http://astrothesaurus.org/uat/1147> ;
     skos:narrower <http://astrothesaurus.org/uat/2291>, <http://astrothesaurus.org/uat/2360>, <http://astrothesaurus.org/uat/632>, <http://astrothesaurus.org/uat/761>, <http://astrothesaurus.org/uat/785> ;
-    skos:note "Wikipedia definition round 1: Instrument in space to study astronomical objects" ;
+    skos:definition "Instrument in space to study astronomical objects" ;
     skos:prefLabel "Space observatories"@en .
 
 <http://astrothesaurus.org/uat/1544>
@@ -6466,7 +6465,7 @@
     skos:altLabel "Astrophysical plasmas"@en ;
     skos:broader <http://astrothesaurus.org/uat/1261> ;
     skos:narrower <http://astrothesaurus.org/uat/23> ;
-    skos:note "AI?X definition round 1: Ionized gases in space environments, such as the solar wind and planetary magnetospheres, governed by electromagnetic forces. Citation: Kivelson, M. G., & Russell, C. T., "Introduction to Space Physics," Cambridge University Press, 1995." ;
+    skos:definition "Ionized gases in space environments, such as the solar wind and planetary magnetospheres, governed by electromagnetic forces." ;
     skos:prefLabel "Space plasmas"@en .
 
 <http://astrothesaurus.org/uat/1545>
@@ -6490,7 +6489,7 @@
     skos:altLabel "Space science"@en ;
     skos:broader <http://astrothesaurus.org/uat/91> ;
     skos:narrower <http://astrothesaurus.org/uat/1046> ;
-    skos:note "Wikipedia definition round 1: Scientific studies carried out using scientific equipment in outer space" ;
+    skos:definition "The scientific study and exploration of outer space using ground-based and spaceborne instruments."@en ;
     skos:prefLabel "Space research"@en .
 
 <http://astrothesaurus.org/uat/1547>
@@ -6514,14 +6513,14 @@
     skos:altLabel "Space vehicle instrumentation"@en ;
     skos:broader <http://astrothesaurus.org/uat/1549> ;
     skos:narrower <http://astrothesaurus.org/uat/1547> ;
-    skos:note "AI?X definition round 1: Devices and sensors on spacecraft used for navigation, communication, and scientific measurements. Citation: Wertz, J. R., & Larson, W. J., "Space Mission Analysis and Design," Microcosm Press, 1999.";
+    skos:definition "Devices and sensors on spacecraft used for navigation, communication, and scientific measurements."@en ;
     skos:prefLabel "Space vehicle instruments"@en .
 
 <http://astrothesaurus.org/uat/1549>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/799> ;
     skos:narrower <http://astrothesaurus.org/uat/1542>, <http://astrothesaurus.org/uat/1545>, <http://astrothesaurus.org/uat/1548>, <http://astrothesaurus.org/uat/2348>, <http://astrothesaurus.org/uat/2355>, <http://astrothesaurus.org/uat/68>, <http://astrothesaurus.org/uat/698> ;
-    skos:note "Wikipedia definition round 1: Combination of launch vehicle and spacecraft" ;
+    skos:definition "Craft designed for traveling in outer space, including satellites, probes, and crewed spacecraft."@en ;
     skos:prefLabel "Space vehicles"@en .
 
 <http://astrothesaurus.org/uat/155>
@@ -6543,7 +6542,7 @@
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/641> ;
     skos:narrower <http://astrothesaurus.org/uat/1434>, <http://astrothesaurus.org/uat/550>, <http://astrothesaurus.org/uat/887> ;
-    skos:note "Wikipedia definition round 1: Tensor that describes the 4D geometry of spacetime" ;
+    skos:definition "Tensor that describes the 4D geometry of spacetime" ;
     skos:prefLabel "Spacetime metric"@en .
 
 <http://astrothesaurus.org/uat/1551>
@@ -6579,7 +6578,7 @@
 <http://astrothesaurus.org/uat/1553>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1338>, <http://astrothesaurus.org/uat/80> ;
-    skos:note "AI?X definition round 1: A measure of the frequency dependence of a source's emission, defined by the slope of its spectrum in log-log space. Citation: Rybicki, G. B., & Lightman, A. P., "Radiative Processes in Astrophysics," Wiley, 1979." ;
+    skos:definition "A measure of the frequency dependence of a source's emission, defined by the slope of its spectrum in log-log space."@en ;
     skos:prefLabel "Spectral index"@en .
 
 <http://astrothesaurus.org/uat/1554>
@@ -6600,7 +6599,7 @@
 <http://astrothesaurus.org/uat/1555>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1556> ;
-    skos:note "AI?X definition round 1: Stars with well-known and stable spectra used to calibrate the photometric and spectroscopic observations of other objects. Citation: Oke, J. B., "Absolute Spectral Energy Distributions," Annual Review of Astronomy and Astrophysics, 1990.";
+    skos:definition "Stars with well-known and stable spectra used to calibrate the photometric and spectroscopic observations of other objects."@en ;
     skos:prefLabel "Spectrophotometric standards"@en .
 
 <http://astrothesaurus.org/uat/1556>
@@ -6624,7 +6623,7 @@
     a skos:Concept ;
     skos:altLabel "Spectroscopic binaries"@en, "Spectrum binary stars"@en ;
     skos:broader <http://astrothesaurus.org/uat/154> ;
-    skos:note "AI?X definition round 1: Binary star systems identified by periodic Doppler shifts in their spectral lines caused by orbital motion. Citation: Hilditch, R. W., "An Introduction to Close Binary Stars," Cambridge University Press, 2001.";
+    skos:definition "Binary star systems identified by periodic Doppler shifts in their spectral lines caused by orbital motion."@en ;
     skos:prefLabel "Spectroscopic binary stars"@en .
 
 <http://astrothesaurus.org/uat/1558>
@@ -6661,7 +6660,7 @@
 <http://astrothesaurus.org/uat/156>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1651> ;
-    skos:note "AI?X definition round 1: Pairs of sunspots with opposite magnetic polarities, typically aligned along the solar rotation axis. Citation: Hale, G. E., "Magnetic Polarity of Sunspots," Astrophysical Journal, 1919.";
+    skos:definition "Groups of sunspot having regions of both magnetic polarities."@en ;
     skos:prefLabel "Bipolar sunspot groups"@en .
 
 <http://astrothesaurus.org/uat/1560>
@@ -6685,7 +6684,7 @@
     a skos:Concept ;
     skos:altLabel "Galactic pitch angle"@en ;
     skos:broader <http://astrothesaurus.org/uat/622> ;
-    skos:note "AI?X definition round 1: The angle between the tangent to a spiral arm in a galaxy and a circle centered on the galaxy, used to classify spiral galaxies. Citation: Seigar, M. S., et al., "Spiral Arm Morphology and Galaxy Evolution," Monthly Notices of the Royal Astronomical Society, 2006.";
+    skos:definition "The angle between the tangent to a spiral arm in a galaxy and a circle centered on the galaxy."@en ;
     skos:prefLabel "Spiral pitch angle"@en .
 
 <http://astrothesaurus.org/uat/1562>
@@ -6705,7 +6704,7 @@
 <http://astrothesaurus.org/uat/1563>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1595> ;
-    skos:note "Wikipedia definition round 1: Succession of methods by which astronomers determine the distances to celestial objects" ;
+    skos:definition "Astrophysical objects with known luminosities, such as Cepheid variable stars or Type Ia supernovae."@en ;
     skos:prefLabel "Standard candles"@en .
 
 <http://astrothesaurus.org/uat/1564>
@@ -6743,7 +6742,7 @@
 <http://astrothesaurus.org/uat/1566>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/90> ;
-    skos:note "AI?X definition round 1: Collections of detailed star maps used for navigation and astronomical observations. Citation: Tirion, W., "Sky Atlas 2000.0," Cambridge University Press, 1998.";
+    skos:definition "Collections of detailed star maps used for navigation and astronomical observations."@en ;
     skos:prefLabel "Star atlases"@en .
 
 <http://astrothesaurus.org/uat/1567>
@@ -6799,7 +6798,7 @@
     a skos:Concept ;
     skos:altLabel "BL Herculis stars"@en ;
     skos:broader <http://astrothesaurus.org/uat/2124> ;
-    skos:note "AI?X definition round 1: A type of pulsating variable star with intermediate periods (1–5 days) found in old stellar populations like globular clusters. Citation: Wallerstein, G., "Cepheids and Related Stars," Annual Review of Astronomy and Astrophysics, 2002.";
+    skos:definition "A type of cepheid variable star with intermediate periods (1–5 days) found in old stellar populations like globular clusters."@en ;
     skos:prefLabel "BL Herculis variable stars"@en .
 
 <http://astrothesaurus.org/uat/1570>
@@ -6825,7 +6824,7 @@
     a skos:Concept ;
     skos:altLabel "Star light polarization"@en, "Starlight polarisation"@en ;
     skos:broader <http://astrothesaurus.org/uat/1624> ;
-    skos:note "Wikipedia definition round 1: Light from the stars" ;
+    skos:definition "The alignment of the oscillation plane of star light by scattering, magnetic fields, or interstellar dust."@en ;
     skos:prefLabel "Starlight polarisation"@en-gb, "Starlight polarization"@en .
 
 <http://astrothesaurus.org/uat/1572>
@@ -6862,7 +6861,7 @@
     a skos:Concept ;
     skos:altLabel "Steady state theory"@en ;
     skos:broader <http://astrothesaurus.org/uat/1186> ;
-    skos:note "Wikipedia definition round 1: Model of the universe – alternative to the Big Bang model" ;
+    skos:definition "A cosmological model proposing a constant density universe with matter continuously created to compensate for expansion, now largely superseded."@en ;
     skos:prefLabel "Steady-state theory"@en .
 
 <http://astrothesaurus.org/uat/1575>
@@ -6882,7 +6881,7 @@
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/847> ;
     skos:narrower <http://astrothesaurus.org/uat/107>, <http://astrothesaurus.org/uat/1607>, <http://astrothesaurus.org/uat/1636>, <http://astrothesaurus.org/uat/848> ;
-    skos:note "AI?X definition round 1: The exchange of energy and material between stars and the surrounding interstellar medium, influencing star formation and Galactic evolution. Citation: Ferrière, K. M., "The Interstellar Environment of Our Galaxy," Reviews of Modern Physics, 2001.";
+    skos:definition "The exchange of energy and material between stars and the surrounding interstellar medium."@en ;
     skos:prefLabel "Stellar-interstellar interactions"@en .
 
 <http://astrothesaurus.org/uat/1577>
@@ -6890,14 +6889,14 @@
     dcterms:modified "2020-12-16T16:30:26.798Z"^^xsd:dateTime ;
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1621>, <http://astrothesaurus.org/uat/224> ;
-    skos:note "AI?X definition round 1: The relative quantities of chemical elements in a star's atmosphere, determined through spectroscopy. Citation: Asplund, M., et al., "The Chemical Composition of the Sun," Annual Review of Astronomy and Astrophysics, 2009.";
+    skos:definition "The relative quantities of chemical elements in a star's atmosphere, determined through spectroscopy."@en ;
     skos:prefLabel "Stellar abundances"@en ;
     skos:related <http://astrothesaurus.org/uat/1474> .
 
 <http://astrothesaurus.org/uat/1578>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/14>, <http://astrothesaurus.org/uat/1624> ;
-    skos:note "Wikipedia definition round 1: Accumulation of particles into a massive object by gravitationally attracting more matter" ;
+    skos:definition "Accumulation of particles into a star by gravitational attraction." ;
     skos:prefLabel "Stellar accretion"@en ;
     skos:related <http://astrothesaurus.org/uat/1579> .
 
@@ -6905,7 +6904,7 @@
     a skos:Concept ;
     skos:altLabel "Stellar accretion discs"@en ;
     skos:broader <http://astrothesaurus.org/uat/911> ;
-    skos:note "AI?X definition round 1: Rotating disks of gas and dust that form around young stars, compact objects, or black holes as material spirals inward due to angular momentum transfer. Citation: Pringle, J. E., "Accretion Disks in Astrophysics," Annual Review of Astronomy and Astrophysics, 1981.";
+    skos:definition "Rotating disks of gas and dust that form around young stars, compact objects, or black holes as material spirals inward due to angular momentum transfer."@en ;
     skos:prefLabel "Stellar accretion disks"@en ;
     skos:related <http://astrothesaurus.org/uat/1578> .
 
@@ -6913,7 +6912,7 @@
     a skos:Concept ;
     skos:altLabel "BL Lac objects"@en ;
     skos:broader <http://astrothesaurus.org/uat/17> ;
-    skos:note "Wikipedia definition round 1: Type of active galactic nucleus" ;
+    skos:definition "A subclass of active galactic nuclei (AGN) characterized by strong variability, polarization, and featureless spectra."@en ;
     skos:prefLabel "BL Lacertae objects"@en .
 
 <http://astrothesaurus.org/uat/1580>
@@ -6921,14 +6920,14 @@
     dcterms:modified "2018-08-27T21:51:14.000Z"^^xsd:dateTime ;
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1624> ;
-    skos:note "Wikipedia definition round 1: Magnetic field generated inside a star" ;
+    skos:definition "Dynamic processes in a star, such as flares, sunspots, and magnetic field variations."@en ;
     skos:prefLabel "Stellar activity"@en ;
     skos:related <http://astrothesaurus.org/uat/1475> .
 
 <http://astrothesaurus.org/uat/1581>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1624> ;
-    skos:note "AI?X definition round 1: The time elapsed since a star's formation, estimated using models of stellar evolution or isochrone fitting in clusters. Citation: Soderblom, D. R., "The Ages of Stars," Annual Review of Astronomy and Astrophysics, 2010." ;
+    skos:definition "The times elapsed since a star's formation"@en ;
     skos:prefLabel "Stellar ages"@en .
 
 <http://astrothesaurus.org/uat/1582>
@@ -6967,8 +6966,8 @@
 <http://astrothesaurus.org/uat/1584>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1621> ;
-    skos:narrower <http://astrothesaurus.org/uat/1237>, <http://astrothesaurus.org/uat/230>, <http://astrothesaurus.org/uat/305> ;
-    skos:note "Wikipedia definition round 1: Outer region of the volume of a star" ;
+    skos:narrower http://astrothesaurus.org/uat/1237>, <http://astrothesaurus.org/uat/230>, <http://astrothesaurus.org/uat/305> ;
+    skos:definition "The outer layers of a star from its photosphere outwards."@en ;
     skos:prefLabel "Stellar atmospheres"@en ;
     skos:related <http://astrothesaurus.org/uat/103>, <http://astrothesaurus.org/uat/1477>, <http://astrothesaurus.org/uat/1585> .
 
@@ -6976,7 +6975,7 @@
     a skos:Concept ;
     skos:altLabel "Stellar atmospheric opacities"@en, "Stellar opacities"@en, "Stellar opacity"@en ;
     skos:broader <http://astrothesaurus.org/uat/88> ;
-    skos:note "AI?X definition round 1: The measure of a star's atmosphere's resistance to radiation flow, influenced by temperature, density, and chemical composition. Citation: Bell, K. L., & Berrington, K. A., "Opacity Calculations for Stellar Atmospheres," Monthly Notices of the Royal Astronomical Society, 1987.";
+    skos:definition "The measure of a star's atmosphere's resistance to radiation flow, influenced by temperature, density, and chemical composition."@en ;
     skos:prefLabel "Stellar atmospheric opacity"@en ;
     skos:related <http://astrothesaurus.org/uat/1584> .
 
@@ -6986,13 +6985,13 @@
     a skos:Concept ;
     skos:altLabel "Solar bow shock"@en ;
     skos:broader <http://astrothesaurus.org/uat/2086>, <http://astrothesaurus.org/uat/711> ;
-    skos:note "AI?X definition round 1: Shock waves formed when a star's stellar wind interacts with the interstellar medium as it moves through it. Citation: Wilkin, F. P., "Exact Analytic Solutions for Stellar Wind Bow Shocks," Astrophysical Journal, 1996.";
+    skos:definition "Shock waves formed when a star's stellar wind interacts with the interstellar medium as it moves through it."@en ;
     skos:prefLabel "Stellar bow shocks"@en .
 
 <http://astrothesaurus.org/uat/1587>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/847> ;
-    skos:note "AI?X definition round 1: Tidal features of stars and gas connecting interacting galaxies, formed by gravitational interactions. Citation: Toomre, A., & Toomre, J., "Galactic Bridges and Tails," Astrophysical Journal, 1972.";
+    skos:definition "Tidal features consisting of stars and gas connecting interacting galaxies, formed by gravitational interactions."@en ;
     skos:prefLabel "Stellar bridges"@en ;
     skos:scopeNote "Between galaxies"@en .
 
@@ -7032,7 +7031,7 @@
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/739> ;
     skos:narrower <http://astrothesaurus.org/uat/1204>, <http://astrothesaurus.org/uat/1236>, <http://astrothesaurus.org/uat/1320>, <http://astrothesaurus.org/uat/145>, <http://astrothesaurus.org/uat/160>, <http://astrothesaurus.org/uat/161>, <http://astrothesaurus.org/uat/1706>, <http://astrothesaurus.org/uat/2026>, <http://astrothesaurus.org/uat/472>, <http://astrothesaurus.org/uat/479>, <http://astrothesaurus.org/uat/703>, <http://astrothesaurus.org/uat/892> ;
-    skos:note "AI?X definition round 1: The study of black holes, focusing on their formation, structure, and interactions with their surroundings. Citation: Misner, C. W., et al., "Gravitation," W. H. Freeman, 1973.";
+    skos:definition "The study of black holes, focusing on their formation, structure, and interactions with their surroundings."@en ;
     skos:prefLabel "Black hole physics"@en ;
     skos:related <http://astrothesaurus.org/uat/162> .
 
@@ -7042,7 +7041,7 @@
     a skos:Concept ;
     skos:altLabel "Stellar colours"@en ;
     skos:broader <http://astrothesaurus.org/uat/1624> ;
-    skos:note "AI?X definition round 1: The apparent color of a star, determined by its surface temperature and measured using photometric filters. Citation: Bessell, M. S., "Photometric Systems," Annual Review of Astronomy and Astrophysics, 2005.";
+    skos:definition "Differences in a star's fluxes measured in different photometric bands."@en ;
     skos:prefLabel "Stellar colors"@en, "Stellar colours"@en-gb .
 
 <http://astrothesaurus.org/uat/1591>
@@ -7064,14 +7063,15 @@
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1606> ;
     skos:narrower <http://astrothesaurus.org/uat/1605> ;
-    skos:note "Wikipedia definition round 1: American Psychobilly Horror Punk Band" ;
+    skos:definition "The central (roughly defined as where significant nuclear fusion occurs) regions of stars." ;
     skos:prefLabel "Stellar cores"@en ;
     skos:related <http://astrothesaurus.org/uat/1482> .
 
 <http://astrothesaurus.org/uat/1593>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1623> ;
-    skos:note "AI?X definition round 1: The process by which particles or elements in a star's interior move under the influence of concentration, temperature, or pressure gradients. Citation: Michaud, G., "Atomic Diffusion in Stars," Astrophysical Journal, 1970.";
+    skos:definition "A process by which (in particular concentration) gadients within stellar interiors are flattened by microscopic particle motions."@en ;
+    skos:note "MD was tempted to interpret it as the diffusion of stars within their galaxy, but given the parent concept it seems that was not the intended meaning." ;
     skos:prefLabel "Stellar diffusion"@en .
 
 <http://astrothesaurus.org/uat/1594>
@@ -7080,16 +7080,15 @@
     a skos:Concept ;
     skos:altLabel "Stellar disks"@en ;
     skos:broader <http://astrothesaurus.org/uat/589> ;
-    skos:note "AI?X definition round 1: Flat, rotating distributions of stars in spiral and disk galaxies, often containing young, star-forming regions. Citation: Freeman, K. C., "Disks of Spiral and S0 Galaxies," Annual Review of Astronomy and Astrophysics, 1970.";
-    skos:prefLabel "Galaxy stellar disks"@en ;
-    skos:scopeNote "Refers to the disk of stars that make up part of the disk of the galaxy.  This concept would specific exclude the dust and gas components of the galaxy's disk."@en .
+    skos:definition "The flat, rotating stellar component of disk galaxies. This concept specifically excludes the dust and gas components of a galaxy's disk."@en ;
+    skos:prefLabel "Galaxy stellar disks"@en .
 
 <http://astrothesaurus.org/uat/1595>
     a skos:Concept ;
     skos:altLabel "Cosmic distance ladder"@en, "Cosmic distance scale"@en, "Extragalactic Distance Scale"@en ;
     skos:broader <http://astrothesaurus.org/uat/80> ;
     skos:narrower <http://astrothesaurus.org/uat/1563>, <http://astrothesaurus.org/uat/217>, <http://astrothesaurus.org/uat/394>, <http://astrothesaurus.org/uat/523> ;
-    skos:note "Wikipedia definition round 1: Succession of methods by which astronomers determine the distances to celestial objects" ;
+    skos:definition "The measurement of distances from the solar system to a star, be it by parallax, motion, photometry, or some other means."@en ;
     skos:prefLabel "Stellar distance"@en ;
     skos:related <http://astrothesaurus.org/uat/1618> .
 
@@ -7111,7 +7110,7 @@
 <http://astrothesaurus.org/uat/1597>
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/1624> ;
-    skos:note "AI?X definition round 1: The temperature of a star's surface, derived from its total radiative flux and radius. Citation: Gray, D. F., "The Observation and Analysis of Stellar Photospheres," Cambridge University Press, 2008.";
+    skos:definition "A measure for the temperature of a star's surface, defined as the temperature of a black body with the same radiative flux and radius."@en ;
     skos:prefLabel "Stellar effective temperatures"@en .
 
 <http://astrothesaurus.org/uat/1598>
@@ -7165,7 +7164,7 @@
     a skos:Concept ;
     skos:altLabel "Spin-flip"@en ;
     skos:broader <http://astrothesaurus.org/uat/159> ;
-    skos:note "Wikipedia definition round 1: Sudden change of spin axis caused by merging with another black hole" ;
+    skos:definition "Sudden change of spin axis of a black hole caused by merging with another black hole" ;
     skos:prefLabel "Black hole spin-flip"@en .
 
 <http://astrothesaurus.org/uat/1600>
@@ -7174,7 +7173,7 @@
     a skos:Concept ;
     skos:broader <http://astrothesaurus.org/uat/2046> ;
     skos:narrower <http://astrothesaurus.org/uat/704>, <http://astrothesaurus.org/uat/721> ;
-    skos:note "AI?X definition round 1: Theoretical paths followed by stars on the Hertzsprung-Russell diagram as they evolve in response to changes in their internal structure. Citation: Kippenhahn, R., & Weigert, A., "Stellar Structure and Evolution," Springer, 1990.";
+    skos:definition "Theoretical paths followed by stars on the Hertzsprung-Russell diagram as they evolve in response to changes in their internal structure."@en ;
     skos:prefLabel "Stellar evolutionary tracks"@en .
 
 <http://astrothesaurus.org/uat/1601>
